@@ -1,8 +1,8 @@
 {
   "name": "React-Portfolio",
   "version": "0.0.7",
-  "homepage": "https://AxelPanic.github.io/medeco-knowledge",
-  "private": true,
+  "homepage": "https://axelpanic.github.io/Medeco-Knowledge/",
+  "private": false,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@testing-library/jest-dom": "^5.16.4",

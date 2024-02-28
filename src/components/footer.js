@@ -13,6 +13,7 @@ function Footer() {
     return (
         <div style={style.Footer}>
             <p> Alex Hickey, 2024</p>
+            <p> If you'd like to add to it, see Mrs. medeco on LPU Discord</p>
         </div>
     )
 };

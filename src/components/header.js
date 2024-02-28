@@ -12,7 +12,7 @@ const style= {
 function Header() {
     return( 
         <div style={style.Header}>
-            <h1>Alex Hickey</h1><h4>Medeco Knowledge Base</h4>
+            <h1>Medeco Knowledge Base</h1>
         </div>
     )
 };
