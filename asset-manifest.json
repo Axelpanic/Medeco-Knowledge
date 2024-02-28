@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/medeco-knowledge/static/css/main.d3e0edba.css",
+    "main.js": "/medeco-knowledge/static/js/main.a3d469ce.js",
+    "index.html": "/medeco-knowledge/index.html",
+    "main.d3e0edba.css.map": "/medeco-knowledge/static/css/main.d3e0edba.css.map",
+    "main.a3d469ce.js.map": "/medeco-knowledge/static/js/main.a3d469ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3e0edba.css",
+    "static/js/main.a3d469ce.js"
+  ]
+}
