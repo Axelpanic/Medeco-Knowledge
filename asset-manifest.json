@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Medeco-Knowledge/static/css/main.d3e0edba.css",
-    "main.js": "/Medeco-Knowledge/static/js/main.ba78626a.js",
+    "main.js": "/Medeco-Knowledge/static/js/main.bff5a61e.js",
     "index.html": "/Medeco-Knowledge/index.html",
     "main.d3e0edba.css.map": "/Medeco-Knowledge/static/css/main.d3e0edba.css.map",
-    "main.ba78626a.js.map": "/Medeco-Knowledge/static/js/main.ba78626a.js.map"
+    "main.bff5a61e.js.map": "/Medeco-Knowledge/static/js/main.bff5a61e.js.map"
   },
   "entrypoints": [
     "static/css/main.d3e0edba.css",
-    "static/js/main.ba78626a.js"
+    "static/js/main.bff5a61e.js"
   ]
 }
