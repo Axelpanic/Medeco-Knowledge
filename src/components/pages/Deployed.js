@@ -8,6 +8,7 @@ export default function About() {
       <div className='cardish'>
         <p> 
             How to pick medecos
+            </p>
       </div>
     </div>
   );

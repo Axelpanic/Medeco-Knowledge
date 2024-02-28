@@ -20,7 +20,7 @@ function NavTabs({ currentPage, handlePageChange }) {
 
           className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}
         >
-          About
+          About MEDECO
         </a>
       </li>
       <li className="nav-item">
@@ -30,7 +30,7 @@ function NavTabs({ currentPage, handlePageChange }) {
 
           className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
         >
-          Resume
+          Variants
         </a>
       </li>
       <li className="nav-item">
@@ -40,7 +40,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           onClick={() => handlePageChange('Deployed')}
           className={currentPage === 'Deployed' ? 'nav-link active' : 'nav-link'}
         >
-          Deployed
+          Picking Theory
         </a>
       </li>
       <li className="nav-item">
@@ -50,7 +50,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           onClick={() => handlePageChange('Skills')}
           className={currentPage === 'Skills' ? 'nav-link active' : 'nav-link'}
         >
-          Skills
+          Picking Resources
         </a>
       </li>
       <li className="nav-item">
@@ -60,7 +60,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           onClick={() => handlePageChange('Contact')}
           className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}
         >
-          Contact
+          MEDECO original thru 4
         </a>
       </li>
     </ul>

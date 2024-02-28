@@ -1,7 +1,7 @@
 {
   "name": "React-Portfolio",
   "version": "0.1.0",
-  "homepage": "https://AxelPanic.github.io/react-portfolio",
+  "homepage": "https://AxelPanic.github.io/medeco-knowledge",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",

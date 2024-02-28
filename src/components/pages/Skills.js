@@ -8,6 +8,7 @@ export default function About() {
       <div className='cardish'>
         <p> 
             MEDECO has four main variations of locks. These are the ORIGINAL, BIAXIAL, MEDECO3, and MEDECO4
+            </p>
       </div>
     </div>
   );
