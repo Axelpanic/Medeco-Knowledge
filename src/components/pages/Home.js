@@ -1,5 +1,5 @@
 import React from 'react';
-import Logo '../../assets/images/LPU_Logo.png'
+import Logo from '../../assets/images/LPU_Logo.png'
 
 export default function Home() {
   return (
