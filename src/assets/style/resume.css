@@ -1,0 +1,21 @@
+.cards{
+    margin:10px;
+    background-color: #b3d9ff;
+    border-radius: 20px;
+    
+}
+
+.jobinfo {
+    font-style: italic;
+}
+
+.jobtime {
+    font-weight: bold;
+}
+
+.link {
+    width: 15%;
+    background-color: #b3d9ff;
+    margin: auto;
+    border-radius: 5px;
+}
