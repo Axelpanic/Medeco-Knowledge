@@ -1,4 +1,5 @@
 import React from 'react';
+import Logo '../../assets/images/LPU_Logo.png'
 
 export default function Home() {
   return (
@@ -10,7 +11,7 @@ export default function Home() {
           </p>
         <p>Click on a page above to see various pieces of information.
         </p>
-        <img src="../assets/images/LPU_Logo.png" style={{width:500, height:500}} alt="lpu logo" />
+        <img src={Logo} style={{width:500, height:500}} alt="lpu logo" />
       </div>
     </div>
   );
