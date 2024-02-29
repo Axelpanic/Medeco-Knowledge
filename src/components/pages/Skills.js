@@ -11,7 +11,7 @@ export default function About() {
             </p>
             <p>
               <h4>Artichoke 2000</h4>
-              <iframe width="560" height="315" padding="10" src="https://www.youtube.com/embed/DNpAIZl4krc?si=sUgIzlLa22fUAL8V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+              <iframe width="auto" height="auto" src="https://www.youtube.com/embed/DNpAIZl4krc?si=sUgIzlLa22fUAL8V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
             </p>
             <p>
