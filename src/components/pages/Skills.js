@@ -16,8 +16,8 @@ export default function About() {
             </p>
             <p>
               <h4>Georgia Jim</h4>
-              <iframe width="560" height="315" padding="10" src="https://www.youtube.com/embed/JTnYYhhBkkQ?si=CVcMPR9s8wcG1y9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-              <iframe width="560" height="315" padding="10" src="https://www.youtube.com/embed/OsJure9m4B4?si=bwK8rboO4aojMbcC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+              <iframe width="auto" height="auto" src="https://www.youtube.com/embed/JTnYYhhBkkQ?si=CVcMPR9s8wcG1y9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+              <iframe width="auto" height="auto" src="https://www.youtube.com/embed/OsJure9m4B4?si=bwK8rboO4aojMbcC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
             </p>
       </div>
