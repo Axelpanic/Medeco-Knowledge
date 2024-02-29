@@ -9,9 +9,13 @@ export default function Home() {
         <p>
           Welcome to Axel's repositiory of Medeco knowledge for the Lockpickers United.
           </p>
+          <p>
+          <h4>This page is still a work in progress</h4>
+          </p>
         <p>Click on a page above to see various pieces of information.
         </p>
-        <img src={Logo} style={{width:200, height:200}} alt="lpu logo" />
+        <img src={Logo} style={{width:200, height:200, padding:15}} alt="lpu logo" />
+        <p></p>
       </div>
     </div>
   );
