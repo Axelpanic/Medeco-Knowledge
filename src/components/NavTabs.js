@@ -25,6 +25,16 @@ function NavTabs({ currentPage, handlePageChange }) {
       </li>
       <li className="nav-item">
         <a
+          href="#contact"
+
+          onClick={() => handlePageChange('Contact')}
+          className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}
+        >
+          MEDECO original thru 4
+        </a>
+      </li>
+      <li className="nav-item">
+        <a
           href="#Deployed"
 
           onClick={() => handlePageChange('Deployed')}
@@ -41,16 +51,6 @@ function NavTabs({ currentPage, handlePageChange }) {
           className={currentPage === 'Skills' ? 'nav-link active' : 'nav-link'}
         >
           Picking Resources
-        </a>
-      </li>
-      <li className="nav-item">
-        <a
-          href="#contact"
-
-          onClick={() => handlePageChange('Contact')}
-          className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}
-        >
-          MEDECO original thru 4
         </a>
       </li>
     </ul>

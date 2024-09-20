@@ -1,5 +1,6 @@
 import React from 'react';
 import "../../assets/style/pages.css";
+import Patent1 from "../../assets/images/patent 1970 blownup.png";
 import Biaxial from "../../assets/images/patent2.png";
 import M3 from "../../assets/images/m3.png";
 import M4 from "../../assets/images/m4.png";
@@ -22,7 +23,7 @@ export default function About() {
           The Medeco Classic comes with a few different driver pin types: Mushroom style and Standard style.
         </p>
         <p>
-        <img src={'../../assets/images/patent 1970 blownup.png'} alt={"patent of medeco classic"} style={{ width: '50%' }} />
+        <img src={Patent1} alt={"patent of medeco classic"} style={{ width: '50%' }} />
         </p>
         <p> 
           The 'V' shaped pins make for easy spinning and manipulation as opposed to later versions.
