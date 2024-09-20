@@ -13,7 +13,8 @@
     width: 60%;
     background-color: lightskyblue;
     margin: auto;
-    padding: top 25px;
+    padding-top: 25px;
+    padding-bottom:25px;
     border-radius: 10px;
 }
 
