@@ -13,11 +13,8 @@ export default function About() {
     <div className='content'>
       <h2>The Differences in designs</h2>
       <div className='cardish'>
-        <p> 
-            MEDECO has four main variations of locks. These are the ORIGINAL, BIAXIAL, MEDECO3, and MEDECO4
-            </p>
         <p>
-            <h4> Medeco Classic</h4>
+            <h4> Medeco Classic </h4>
         </p>
         <p> 
           The Medeco Classic comes with a few different driver pin types: Mushroom style and Standard style.
@@ -37,6 +34,7 @@ export default function About() {
           The Medeco Biaxial mainly contains mushroom and standard driver pins. However, in the late 80's and 90's barrels were added to increase picking difficulty. False gates became common as well. 
         </p>
         <img src={Biaxial} alt='Biaxial pin design' style={{ width: '50%' }} />
+        <p></p>
       </div>
       <div className='cardish'>
         <p>
@@ -46,18 +44,20 @@ export default function About() {
           The Medeco 3 featured a redesigned sidebar to include a slider. Mushroom pins, Barrels, and standard pins became the norm with this update. The slider is passive, meaning that you can get the lock to sidebar and sheer and the slider will force the lock into a false set style rotation. Once you push the slider in, you open the lock.
         </p>
         <p> <img src={M3} alt='Medeco 4 mortise' style={{ width: '50%' }} /> </p>
+        <p></p>
       </div>
       <div className='cardish'>
         <p>
-          <h4> Medeco 4</h4>
+          <h4> Medeco 4 </h4>
         </p>
         <p> The Medeco 4 incorporated several assa/abloy improvments, from finer tolerances to side pins similar to other assa abloy group manufacturers. The Medeco 4 has Barrels with matching coutermilling, mushrooms, and one or two standard pins. The side pins feature 2 or 3 false gate/variable height true gate pins and one interactive element pin.  
         </p>
         <p> <img src={M4} alt='Medeco 4 mortise' style={{ width: '50%' }} /> </p>
+        <p></p>
       </div>
       <div className='cardish'>
         <p> 
-          <h3> Other Medeco Locks</h3>
+          <h3> Other Medeco Locks </h3>
         </p>
         <p>
           <h4>Bilevel</h4>

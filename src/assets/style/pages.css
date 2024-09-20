@@ -3,8 +3,7 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #e6f2ff;
     margin: auto;
-    padding-top: 25px;
-    padding-bottom: 25px;
+    padding: 25px 25px 25px;
     border-radius: 20px;
     text-align: center;
 }
@@ -13,8 +12,7 @@
     width: 60%;
     background-color: lightskyblue;
     margin: auto;
-    padding-top: 25px;
-    padding-bottom:25px;
+    padding: top 25px;
     border-radius: 10px;
 }
 
