@@ -10,7 +10,7 @@
 .cardish {
     width: 50%;
     background-color: lightskyblue;
-    margin: auto;
+    margin: 20px;
     padding:10px;
     border-radius: 10px;
 }
