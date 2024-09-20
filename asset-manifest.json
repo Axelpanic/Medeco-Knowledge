@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Medeco-Knowledge/static/css/main.b5975ce2.css",
+    "main.css": "/Medeco-Knowledge/static/css/main.cfa0fc77.css",
     "main.js": "/Medeco-Knowledge/static/js/main.6afeacb7.js",
     "static/media/medeco history 3.png": "/Medeco-Knowledge/static/media/medeco history 3.1c9fde12b1decbe87303.png",
     "static/media/m3.png": "/Medeco-Knowledge/static/media/m3.1e8dc5998ba19ad00ef3.png",
@@ -14,11 +14,11 @@
     "static/media/hillenbrand sells.png": "/Medeco-Knowledge/static/media/hillenbrand sells.4d881479cc4e07d3740f.png",
     "static/media/patent2.png": "/Medeco-Knowledge/static/media/patent2.b154b917b105ea6cee42.png",
     "index.html": "/Medeco-Knowledge/index.html",
-    "main.b5975ce2.css.map": "/Medeco-Knowledge/static/css/main.b5975ce2.css.map",
+    "main.cfa0fc77.css.map": "/Medeco-Knowledge/static/css/main.cfa0fc77.css.map",
     "main.6afeacb7.js.map": "/Medeco-Knowledge/static/js/main.6afeacb7.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5975ce2.css",
+    "static/css/main.cfa0fc77.css",
     "static/js/main.6afeacb7.js"
   ]
 }
