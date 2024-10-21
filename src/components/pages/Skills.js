@@ -43,6 +43,12 @@ export default function About() {
               <p><iframe className='iframe' width="auto" height="auto" src="https://www.youtube.com/embed/OsJure9m4B4?si=bwK8rboO4aojMbcC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen />
             </p>
       </div>
+      <div>
+        <p>
+          <h3> The Medecoder</h3>
+        </p>
+        <p> http://www.theamazingking.com/medecoder.php </p>
+      </div>
     </div>
   );
 }

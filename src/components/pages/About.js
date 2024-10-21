@@ -24,29 +24,41 @@ export default function About() {
           <img src={Patentone} alt="Patent from March 1st, 1967" style={{ width: '70%' }} />
         </p>
         <p>
-          Although none of them wanted to be locksmiths or lock designers, they made a lock that was highly resistant to picking, which was something New York City needed at the time. In the early 70s, Medeco offered a $10,000 cash prize to anyone who could pick their new lock. In 1972, one NYC police detective was able to open a lock but couldn't replicate the feat. He won $1,500.
+          Although none of them wanted to be locksmiths or lock designers, they made a lock that was highly resistant to picking, which was something New York City needed at the time. The sales went live in early 1968. In the early 70s, Medeco offered a $10,000 cash prize to anyone who could pick their new lock. In 1972, one NYC police detective was able to open a lock but couldn't replicate the feat. He won $1,500.
         </p>
         <p>
           This contest brought MEDECO into the spotlight, and the company began to sell very well, particularly in NYC.
         </p>
         <p>
-          In 1972, Roy C. Spain sold his rights to the patent to Roy Oliver, who became the head of MEDECO. In 1983, Hillenbrand Industries bought MEDECO, expanding it and introducing the MEDECO Biaxial around the world.
+          In 1972, Roy C. Spain sold his rights to the patent to the main company and Roy Oliver became the head of MEDECO. In 1983, Hillenbrand Industries bought MEDECO, expanding it and introducing the MEDECO Biaxial around the world.
         </p>
         <p>
           <img src={Patenttwo} alt="Biaxial pin patent" style={{ width: '70%' }} />
         </p>
         <p>
-          In the mid-1990s, MEDECO continued to invest in research and development, led by Mr. Fields, to remain at the forefront of lock manufacturing. In 1996, MEDECO shifted to selling directly to retail locksmiths, saving them money.
+          In the mid-1990s, MEDECO continued to invest in research and development, led by Mr. Fields, to remain at the forefront of lock manufacturing. In 1996, MEDECO shifted to selling directly to retail locksmiths, and introduced the information of the coming mystery line of new locks.
         </p>
         <p>
           <img src={Sold} alt="NYT article about the sale to ASSA ABLOY Group" style={{ width: '70%' }} />
         </p>
         <p>
-          In 1998, MEDECO was sold again, this time to the ASSA ABLOY Group. This partnership provided access to more resources and patents. Leveraging ASSA ABLOY's innovations, MEDECO developed the M3 in 2005 and the M4 in 2017. Both models are UL patented to ensure security against duplicate keys.
+          In 1998, MEDECO was sold again, this time to the ASSA ABLOY Group. This partnership provided access to more resources and patents. Leveraging ASSA ABLOY's innovations, MEDECO finished the M3 in 2003 and launched the M4 in 2017. Both models, much like their original locks, are UL patented to ensure security against duplicate keys.
         </p>
         <h5>Here is an excerpt from the Assa Abloy Group webpage about MEDECO's history:</h5>
         <p>
           <img src={Medeco3} alt="Official history of MEDECO from ASSA ABLOY" style={{ width: '70%' }} />
+        </p>
+      </div>
+      <div>
+        <p>
+          <h4> Sources:</h4>
+        </p>
+        <p> https://roanoke.com/medeco-marks-golden-anniversary-as-roanoke-county-plant-turns-50/article_baa94a53-59ee-5563-ac6c-32fb6ce176fe.html#:~:text=The%20company%27s%20roots%20begin%20in,pick%20open%20three%20Medeco%20locks.
+        </p>
+        <p>https://www.lockwiki.com/index.php/Medeco
+        </p>
+        <p> https://www.prweb.com/releases/Medeco_Security_Locks_Celebrates_50_Years_of_High_Security/prweb15764393.htm
+
         </p>
       </div>
     </div>
