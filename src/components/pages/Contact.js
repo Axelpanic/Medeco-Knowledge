@@ -60,7 +60,7 @@ export default function About() {
         <p> S&G 826 (a thru D): Short oval shaped, medeco classic or biaxial core (based on year made)</p>
         <p> <img src="https://i.ebayimg.com/images/g/4EoAAOSwg7RmbH6X/s-l1200.jpg" alt="826 c lock" style={{ width: '40%' }} /> </p>
         <p> S&G 831 (A and B): Taller protected shackle, mostly biaxial cores.Ingersoll is stamped on many of these.</p>
-        <p> <img src="https://thumbs.worthpoint.com/zoom/images1/1/0411/29/sargent-greenleaf-g-831-high-security_1_6d749e5e71b07f512903f4330cbb11eb.jpg" alt="831 lock" style={{ width:'50%' }} /> </p>
+        <p> <img src="https://lh6.googleusercontent.com/proxy/cMV_EmedbKtpU3DAk7Wek_6hEZatPHtZZFoIyb8BfJvvYIQaez_mvXQYneHaN42krn9LAIJOyBWJn3AgVKGr-rwhWxW-yHqzyVlZMdtpC2Y" alt="831 lock" style={{ width:'50%' }} /> </p>
         <p> S&G 833 (a and C): Taller and two sectioned version of the 831. More sleak and closer to the modern version. This one separates into two sections. </p>
         <p> <img src="https://securitysnobs.com/item_images/9078061827014dff4cf0ecad893045e4_2.jpg" alt="833 padlock" style={{width:'50%'}} /> </p>
         <p> S&G 951: Believed to be the latest padlock made for the military by Medeco/S&G. Two part, newest version I've seen is 2014.</p>
