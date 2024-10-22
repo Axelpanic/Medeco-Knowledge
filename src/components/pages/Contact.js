@@ -55,7 +55,7 @@ export default function About() {
         <p> <img src={M4} alt='Medeco 4 mortise' style={{ width: '50%' }} /> </p>
         <p></p>
       </div>
-      <div>
+      <div className='cardish'>
         <h3> Military Padlocks</h3>
         <p> Medeco in the early 70's partnered with Sargent and Greenleaf to make several high security padlocks for use in Military applications. This list has several but does not contain all of the variants.
         </p>
