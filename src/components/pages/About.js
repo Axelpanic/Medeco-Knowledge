@@ -13,19 +13,19 @@ export default function About() {
       <div className='cardish'>
         <p><img src="https://www.medeco.com/content/dam/assa-abloy/americas/aeh/medeco-authored/site-imagery/about-us/medeco-history.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg" alt='roy c spain in his basement' style={{width: '50%'}} /> </p>
         <p>
-          In the 1950s, Roy Clifton Spain started his own business with Roy Oliver (pictured below) in his basement in Roanoke, Virginia. He had previously worked for Yale (yes, that Yale). He brought on two others, Fred Wagner and Elvis Flora.
+          In the 1950s, Roy Clifton Spain started his own business with Paul Powel in his basement in Roanoke, Virginia. They started the Mechanical Development Company with the intention of tool and die manufacturing.
         </p>
         <p>
           <img src={OliverR} alt="Roy Oliver pictured at MEDECO in Virginia" style={{ width: '70%' }} />
         </p>
         <p>
-          They started the Mechanical Development Company, or MEDECO. In 1957, they had their first prototype of the key but decided not to move forward. However, on March 1st, 1967, Roy Spain submitted a patent application, listing himself and his three coworkers as the designers.
+          In 1957, they had their first prototype of a pick proof key but decided not to move forward. However, on March 1st, 1967, Roy Spain submitted a patent application, listing himself and his three coworkers (Roy Oliver (pictured above), Fred Wagner and Elvis Flora) as the designers. Roy and Paul split ways in the mid '60s into two separate companies, MEDECO Security Locks Co. being the lockmaking company.
         </p>
         <p>
           <img src={Patentone} alt="Patent from March 1st, 1967" style={{ width: '70%' }} />
         </p>
         <p>
-          Although none of them wanted to be locksmiths or lock designers, they made a lock that was highly resistant to picking, which was something New York City needed at the time. The sales went live in early 1968. In the early 70s, Medeco offered a $10,000 cash prize to anyone who could pick their new lock. In 1972, one NYC police detective was able to open a lock but couldn't replicate the feat. He won $1,500.
+          Although none of them wanted to be locksmiths or lock designers, they made a lock that was highly resistant to picking, which was something New York City needed at the time. The sales went live in early 1968. In the early 70s, Medeco offered a $10,000 cash prize to anyone who could pick their new lock three times. In 1972, one NYC police detective was able to open a lock but couldn't replicate the feat. He won $1,500 and was later hired by the company.
         </p>
         <p>
           This contest brought MEDECO into the spotlight, and the company began to sell very well, particularly in NYC.
