@@ -11,6 +11,7 @@ export default function About() {
     <div className='content'>
       <h2>About The Company, Medeco</h2>
       <div className='cardish'>
+        <p><img src="https://www.medeco.com/content/dam/assa-abloy/americas/aeh/medeco-authored/site-imagery/about-us/medeco-history.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg" alt='roy c spain in his basement' style={{width: '50%'}} /> </p>
         <p>
           In the 1950s, Roy Clifton Spain started his own business with Roy Oliver (pictured below) in his basement in Roanoke, Virginia. He had previously worked for Yale (yes, that Yale). He brought on two others, Fred Wagner and Elvis Flora.
         </p>
@@ -56,11 +57,11 @@ export default function About() {
         <p>
           <h4> Sources:</h4>
         </p>
-        <p> <a href="https://roanoke.com/medeco-marks-golden-anniversary-as-roanoke-county-plant-turns-50/article_baa94a53-59ee-5563-ac6c-32fb6ce176fe.html#:~:text=The%20company%27s%20roots%20begin%20in,pick%20open%20three%20Medeco%20locks" target="_blank"> Rokanoke article: Medeco Golden anniversary</a>.
+        <p> <a href="https://roanoke.com/medeco-marks-golden-anniversary-as-roanoke-county-plant-turns-50/article_baa94a53-59ee-5563-ac6c-32fb6ce176fe.html#:~:text=The%20company%27s%20roots%20begin%20in,pick%20open%20three%20Medeco%20locks" target="blank"> Rokanoke article: Medeco Golden anniversary</a>.
         </p>
-        <p><a href="https://www.lockwiki.com/index.php/Medeco" target="_blank">Lockwiki: Medeco </a>
+        <p> <a href="https://www.lockwiki.com/index.php/Medeco" target="blank">Lockwiki: Medeco </a>
         </p>
-        <p><a href="https://www.prweb.com/releases/Medeco_Security_Locks_Celebrates_50_Years_of_High_Security/prweb15764393.html" target="_blank"> PRweb: 50 Years of High Security</a>
+        <p> <a href="https://www.prweb.com/releases/Medeco_Security_Locks_Celebrates_50_Years_of_High_Security/prweb15764393.html" target="blank"> PRweb: 50 Years of High Security</a>
         </p>
         <p> <a href="https://law.justia.com/cases/federal/district-courts/FSupp2/59/1040/2408785/" target="Blank"> SPI V Medeco lawsuit summary 1999</a>
         </p>
