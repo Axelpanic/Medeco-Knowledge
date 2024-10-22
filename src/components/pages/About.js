@@ -13,7 +13,7 @@ export default function About() {
       <div className='cardish'>
         <p><img src="https://www.medeco.com/content/dam/assa-abloy/americas/aeh/medeco-authored/site-imagery/about-us/medeco-history.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg" alt='roy c spain in his basement' style={{width: '50%'}} /> </p>
         <p>
-          In the 1950s, Roy Clifton Spain started his own business with Paul Powel in his basement in Roanoke, Virginia. They started the Mechanical Development Company with the intention of tool and die manufacturing.
+          In the 1950s, Roy Clifton Spain (pictured above) started his own business with Paul Powel in his basement in Roanoke, Virginia. They started the Mechanical Development Company with the intention of tool and die manufacturing.
         </p>
         <p>
           <img src={OliverR} alt="Roy Oliver pictured at MEDECO in Virginia" style={{ width: '70%' }} />
