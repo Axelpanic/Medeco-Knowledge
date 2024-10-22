@@ -41,9 +41,12 @@ export default function About() {
         <p>
           <img src={Sold} alt="NYT article about the sale to ASSA ABLOY Group" style={{ width: '70%' }} />
         </p>
+        <p> Medeco has gotten into two lawsuits with another famous manufacturer, Emhart (otherwise known as Corbin/Russwin or Security People, Inc.). In 1995, both parties settled out of court with an agreement of no more littigation and medeco paying SPI 'a sum of money' and SPI releasing all claims of infringment. SPI decided to sue again in 1998 and lost the case on the merits of the first case, the agreement to drop all claims of infrigement. This won the case for Medeco.</p>)
         <p>
           In 1998, MEDECO was sold again, this time to the ASSA ABLOY Group. This partnership provided access to more resources and patents. Leveraging ASSA ABLOY's innovations, MEDECO finished the M3 in 2003 and launched the M4 in 2017. Both models, much like their original locks, are UL patented to ensure security against duplicate keys.
         </p>
+        <p> Since the turn of the century, Medeco has innovated and grown to inlude electronic locks into their lineup. These models include the CLiq system, the XT system, and the Siteline. The siteline was their first attempt but was quickly followed by the Cliq system.</p>
+        <p> </p>
         <h5>Here is an excerpt from the Assa Abloy Group webpage about MEDECO's history:</h5>
         <p>
           <img src={Medeco3} alt="Official history of MEDECO from ASSA ABLOY" style={{ width: '70%' }} />
@@ -58,7 +61,8 @@ export default function About() {
         <p><a href="https://www.lockwiki.com/index.php/Medeco" target="_blank">Lockwiki: Medeco </a>
         </p>
         <p><a href="https://www.prweb.com/releases/Medeco_Security_Locks_Celebrates_50_Years_of_High_Security/prweb15764393.html" target="_blank"> PRweb: 50 Years of High Security</a>
-
+        </p>
+        <p> <a href="https://law.justia.com/cases/federal/district-courts/FSupp2/59/1040/2408785/" target="Blank"> SPI V Medeco lawsuit summary 1999</a>
         </p>
       </div>
     </div>
