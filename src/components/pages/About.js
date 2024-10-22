@@ -49,15 +49,15 @@ export default function About() {
           <img src={Medeco3} alt="Official history of MEDECO from ASSA ABLOY" style={{ width: '70%' }} />
         </p>
       </div>
-      <div>
+      <div className='cardish'>
         <p>
           <h4> Sources:</h4>
         </p>
-        <p> https://roanoke.com/medeco-marks-golden-anniversary-as-roanoke-county-plant-turns-50/article_baa94a53-59ee-5563-ac6c-32fb6ce176fe.html#:~:text=The%20company%27s%20roots%20begin%20in,pick%20open%20three%20Medeco%20locks.
+        <p> <a href="https://roanoke.com/medeco-marks-golden-anniversary-as-roanoke-county-plant-turns-50/article_baa94a53-59ee-5563-ac6c-32fb6ce176fe.html#:~:text=The%20company%27s%20roots%20begin%20in,pick%20open%20three%20Medeco%20locks" target="_blank"> Rokanoke article: Medeco Golden anniversary</a>.
         </p>
-        <p>https://www.lockwiki.com/index.php/Medeco
+        <p><a href="https://www.lockwiki.com/index.php/Medeco" target="_blank">Lockwiki: Medeco </a>
         </p>
-        <p> https://www.prweb.com/releases/Medeco_Security_Locks_Celebrates_50_Years_of_High_Security/prweb15764393.htm
+        <p><a href="https://www.prweb.com/releases/Medeco_Security_Locks_Celebrates_50_Years_of_High_Security/prweb15764393.html" target="_blank"> PRweb: 50 Years of High Security</a>
 
         </p>
       </div>

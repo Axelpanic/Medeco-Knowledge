@@ -39,7 +39,7 @@ export default function About() {
         <p>
           The best way to pick these is medium tension and looking for those binding pins, like nomal. Lift and spin that binding pin until you feel it "lock" into the sidebar. It will feel solid and unable to be manipulated when it is set to sidebar.
         </p>
-        <img url="https://i.imgur.com/PTI0wES.jpeg" alt='cam pin' />
+        <img src="https://i.imgur.com/PTI0wES.jpeg" alt='cam pin' style={{ width: '70%' }} />
       </div>
     </div>
   );
