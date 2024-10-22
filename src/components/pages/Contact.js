@@ -83,8 +83,7 @@ export default function About() {
         <p> Much like the bilevel, the cam locks feature the same features of the main Medeco locks with a different sidebar. These have rounded fingers to allow to slot into the pins of the cam lock. 
         </p>
         <p>
-        <img src={Campin} alt={"patent drawing of a cam pin."} style={{ width:'50%' }} /> </p> 
-        <p>
+        <img src={Campin} alt={"patent drawing of a cam pin."} style={{ width:'50%' }} />
         <img src="https://cdn11.bigcommerce.com/s-kyyt8tlqvd/images/stencil/1280x1280/products/25584/453193/Medeco-All-In-One-5-Pin-Cam-Lock-Kit-Satin-Chrome_108318__87265.1726368451.jpg?c=1" alt="cam lock" style={{ width:'50%' }} />
         </p>
         <p>
