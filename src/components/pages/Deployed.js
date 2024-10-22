@@ -19,6 +19,9 @@ export default function About() {
               Counter clockwise is the most popular way to open medecos. This involves setting the rotations to the sidebar first. Once you can add firm tension and all the pins lift without resistance, you are set to sidebar. Add normal tension again and push the pins to sheer. 
             </p>
             <p> For a great resource, see Lockfall Labs video on the resource tab.</p>
+            <p>
+              <img src="https://reedbrotherssecurity.com/images/locks_high_security/medeco_m3_biaxial/medeco_biaxial_pins.jpg" alt='biaxial pins' style={{ width: '60%' }}/>
+            </p>
       </div>
       <div className='cardish'>
         <p>
