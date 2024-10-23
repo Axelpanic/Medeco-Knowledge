@@ -10,7 +10,6 @@ export default function Home() {
           Welcome to Axel's repositiory of Medeco knowledge for the Lockpickers United.
           </p>
           <p>
-          <h4>This page is still a work in progress</h4>
           </p>
         <p>Click on a page above to see various pieces of information.
         </p>
