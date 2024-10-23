@@ -57,7 +57,7 @@ export default function About() {
         <p>
           <h4> Sources:</h4>
         </p>
-        <p> <a href="https://roanoke.com/medeco-marks-golden-anniversary-as-roanoke-county-plant-turns-50/article_baa94a53-59ee-5563-ac6c-32fb6ce176fe.html#:~:text=The%20company%27s%20roots%20begin%20in,pick%20open%20three%20Medeco%20locks" target="_blank"> Rokanoke article: Medeco Golden anniversary</a>.
+        <p> <a href="https://roanoke.com/medeco-marks-golden-anniversary-as-roanoke-county-plant-turns-50/article_baa94a53-59ee-5563-ac6c-32fb6ce176fe.html#:~:text=The%20company%27s%20roots%20begin%20in,pick%20open%20three%20Medeco%20locks" target="blank"> Rokanoke article: Medeco Golden anniversary</a>.
         </p>
         <p> <a href="https://www.lockwiki.com/index.php/Medeco" target="blank">Lockwiki: Medeco </a>
         </p>

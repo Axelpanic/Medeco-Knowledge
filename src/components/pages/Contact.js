@@ -12,10 +12,10 @@ export default function About() {
       <h2>The Differences in designs</h2>
       <div className='cardish'>
         <p>
-            <h4> Medeco Classic </h4>
+            <h4> Medeco Original </h4>
         </p>
         <p> 
-          The Medeco Classic comes with a few different driver pin types: Mushroom style and Standard style.
+          The Medeco Original comes with a few different driver pin types: Mushroom style and Standard style.
         </p>
         <p>
         <img src={Patent1} alt={"patent of medeco classic"} style={{ width: '50%' }} />
