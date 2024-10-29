@@ -53,20 +53,7 @@ export default function About() {
         <p> <img src={M4} alt='Medeco 4 mortise' style={{ width: '50%' }} /> </p>
         <p></p>
       </div>
-      <div className='cardish'>
-        <h3> Military Padlocks</h3>
-        <p> Medeco in the early 70's partnered with Sargent and Greenleaf to make several high security padlocks for use in Military applications. This list has several but does not contain all of the variants.
-        </p>
-        <p> S&G 826 (a thru D): Short oval shaped, medeco classic or biaxial core (based on year made)</p>
-        <p> <img src="https://i.ebayimg.com/images/g/4EoAAOSwg7RmbH6X/s-l1200.jpg" alt="826 c lock" style={{ width: '40%' }} /> </p>
-        <p> S&G 831 (A and B): Taller protected shackle, mostly biaxial cores.Ingersoll is stamped on many of these.</p>
-        <p> <img src="https://lh6.googleusercontent.com/proxy/cMV_EmedbKtpU3DAk7Wek_6hEZatPHtZZFoIyb8BfJvvYIQaez_mvXQYneHaN42krn9LAIJOyBWJn3AgVKGr-rwhWxW-yHqzyVlZMdtpC2Y" alt="831 lock" style={{ width:'50%' }} /> </p>
-        <p> S&G 833 (a and C): Taller and two sectioned version of the 831. More sleak and closer to the modern version. This one separates into two sections. </p>
-        <p> <img src="https://securitysnobs.com/item_images/9078061827014dff4cf0ecad893045e4_2.jpg" alt="833 padlock" style={{width:'50%'}} /> </p>
-        <p> S&G 951: Believed to be the latest padlock made for the military by Medeco/S&G. Two part, newest version I've seen is 2014.</p>
-        <p> <img src="https://www.safelocking.co.uk/images/new_products/padlocks/951_951C_High_Security_Padlock.png" alt="951 padlock" style={{width: '50%'}} /> </p>
-      </div>
-      <div className='cardish'>
+            <div className='cardish'>
         <p> 
           <h3> Other Medeco Locks </h3>
         </p>
@@ -89,17 +76,19 @@ export default function About() {
         <p>
           <h4>Medeco Duracam</h4>
         </p>
-        <p>When talking about strange medeco locks, you can't forget the duracam. This was medeco's venture into dimple locks using M3 keys. Using the same style of pins as the Cam lock, the key is inserted horizontal. Odd, but definately unique.
+        <p>When talking about strange medeco locks, you can't forget the duracam. This was medeco's venture into dimple locks using M3 keys. Using the same style of pins as the Cam lock, the key is inserted horizontal. Odd, but definately unique. These come in Biaxial and M3 varieties.
         </p>
         <p> <img src={Dimple} alt={"medeco duracam."} style={{ width:'50%' }} /> </p>
 
         <p>
           <h4> Keymark</h4>
         </p>
+        <p> Keymark locks are much more standard locks than any other medecos. No sidebar here, these pin tips are cone shaped like normal locks. The security here is the outragious angle of the keyway keeping some low security for less expensive prices.</p>
         <p> <img src="https://www.lockwiki.com/images/thumb/4/4c/Medeco_Keymark_KIK_cylinder.jpg/240px-Medeco_Keymark_KIK_cylinder.jpg" alt="keymark kik" style={{width:'50%'}} /> </p>
         <p>
           <h4>X4</h4>
         </p>
+        <p> More information to follow. </p> 
         <p> <img src="https://ik.imagekit.io/twr9df4sfpl/dam/dam/AADSS1083306" alt="x4 cylinder" style={{width:'50%'}} /> </p>
       </div>
     </div>
