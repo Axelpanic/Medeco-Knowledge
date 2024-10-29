@@ -6,6 +6,8 @@ import Resume from './pages/Resume';
 import Contact from './pages/Contact';
 import Skills from './pages/Skills';
 import Deployed from './pages/Deployed';
+import Elock from './pages/Elock';
+import Types from './pages/Types';
 
 export default function PortfolioContainer() {
   const [currentPage, setCurrentPage] = useState('Home');
@@ -26,6 +28,12 @@ export default function PortfolioContainer() {
     if (currentPage === 'Deployed') {
         return <Deployed />;
     }
+    if (currentPage === 'Elock') {
+      return <Elock />;
+  }
+  if (currentPage === 'Types') {
+    return <Types />;
+}
     return <Contact />;
   };
 

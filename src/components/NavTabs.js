@@ -53,6 +53,26 @@ function NavTabs({ currentPage, handlePageChange }) {
           Picking Resources
         </a>
       </li>
+      <li className="nav-item">
+        <a
+          href="#Elock"
+
+          onClick={() => handlePageChange('Elock')}
+          className={currentPage === 'Elock' ? 'nav-link active' : 'nav-link'}
+        >
+          MEDECO Electronic Locks
+        </a>
+      </li>
+      <li className="nav-item">
+        <a
+          href="#types"
+
+          onClick={() => handlePageChange('Types')}
+          className={currentPage === 'Types' ? 'nav-link active' : 'nav-link'}
+        >
+          Medeco Type Identifications
+        </a>
+      </li>
     </ul>
   );
 }
