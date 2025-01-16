@@ -11,11 +11,11 @@ export default function Home() {
           <h2> Padlock types </h2>
           <p> I know you all want this first, so here are padlock types that I know of.</p>
           <h3>
-            Medeco 25 Padlock
+            Medeco 50 Padlock
           </h3>
           <img src='https://ik.imagekit.io/twr9df4sfpl/dam/dam/AADSS1237718' alt="medeco assa abloy 50 padlock" style={{ width: '25%' }} />
           <img src='https://preview.redd.it/medeco-padlock-identification-v0-uumy8hy1j4jd1.jpg?width=1080&crop=smart&auto=webp&s=6368903b4ee1b7c3a9243fc1cfb6f60372230b1c' alt="medeco 50 padlock" style={{ width: '25%' }} />
-          <p> I know that this is a modern lock, but most (if not all) of the medeco 25 padlocks look about the same with varing logos. </p>
+          <p> I know that this is a modern lock, but most (if not all) of the medeco 50 padlocks look about the same with varing logos. </p>
         
           <h3> Medeco protector and medeco 826 padlocks </h3>
           <img src='https://i.imgur.com/BZFwF5m.jpeg' alt= "medeco protector padlock" style= {{width: '25%'}} />
