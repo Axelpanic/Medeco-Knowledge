@@ -88,7 +88,7 @@ export default function About() {
         <p>
           <h4>X4</h4>
         </p>
-        <p> More information to follow. </p> 
+        <p> Keymark/Medeco X4 locks are simple. These are just like keymarks, standard pins without rotations and no sidebar. However, it does have a check pin which prevents core rotation until after it is set. My favorite method is to set a z bar on top of the check pin and pick using BOK on that check pin. See my picking video for an example.</p> 
         <p> <img src="https://ik.imagekit.io/twr9df4sfpl/dam/dam/AADSS1083306" alt="x4 cylinder" style={{width:'50%'}} /> </p>
       </div>
     </div>

@@ -1,5 +1,6 @@
 import React from 'react';
 import Millock from '../../assets/images/milpadlocks.png';
+import Metrolock from '../../assets/images/IMG_1034.jpg';
 
 export default function Home() {
   return (
@@ -36,7 +37,7 @@ export default function Home() {
           <p> These padlocks persist into the medeco system series during the biaxial generation. I believe these are padlocks made by Masterlock and filled usually with KIK. later, assa abloy began making these with LFIC compatibility. </p>
         
           <h3> MEDECO Metrolock Padlocks</h3>
-          <img src='https://cdn4.volusion.store/fscwp-utjhn/v/vspfiles/photos/52-2500-N8-2.jpg?v-cache=1563260596' alt=" Metrolock padlock" style={{width:'25%'}} />
+          <img src={Metrolock} alt=" Metrolock padlock" style={{width:'25%'}} />
           <p> These padlocks contain a biaxial style cam core. These are avaliable in puck style, square bodies, and round bodies. These padlocks were manufactured by American Locks and show their three letter id numbers.</p>
         
         <h3> Military Padlocks</h3>

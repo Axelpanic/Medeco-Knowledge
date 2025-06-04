@@ -20,7 +20,9 @@
 		}
 	},
 	"features": {
-		"ghcr.io/devcontainers-contrib/features/jshint:2": {}
+		"ghcr.io/devcontainers-contrib/features/jshint:2": {},
+		"ghcr.io/devcontainers/features/node:1": {},
+		"ghcr.io/devcontainers-extra/features/json-server:1": {}
 	},
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
