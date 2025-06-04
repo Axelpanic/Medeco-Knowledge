@@ -21,8 +21,28 @@
 	},
 	"features": {
 		"ghcr.io/devcontainers-contrib/features/jshint:2": {},
-		"ghcr.io/devcontainers/features/node:1": {},
-		"ghcr.io/devcontainers-extra/features/json-server:1": {}
+		"ghcr.io/devcontainers/features/node:1": {
+			"nodeGypDependencies": true,
+			"installYarnUsingApt": true,
+			"version": "latest",
+			"pnpmVersion": "latest",
+			"nvmVersion": "latest"
+		},
+		"ghcr.io/devcontainers-extra/features/json-server:1": {
+			"version": "latest"
+		},
+		"ghcr.io/jayree/devcontainer-features/npm-registry:1": {
+			"registry": "@SCOPE:registry=https://npm.pkg.github.com\n//npm.pkg.github.com/:_authToken=${localEnv:GITHUB_TOKEN}"
+		},
+		"ghcr.io/devcontainers-extra/features/npm-package:1": {
+			"package": "typescript"
+		},
+		"ghcr.io/devcontainers-extra/features/npm-packages:1": {
+			"packages": "eslint@9.20.1,nodemon,prettier@3.5.2"
+		},
+		"ghcr.io/devcontainers-extra/features/jshint:2": {
+			"version": "latest"
+		}
 	},
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
