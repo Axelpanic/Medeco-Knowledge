@@ -45,16 +45,6 @@ function NavTabs({ currentPage, handlePageChange }) {
       </li>
       <li className="nav-item">
         <a
-          href="#Skills"
-
-          onClick={() => handlePageChange('Skills')}
-          className={currentPage === 'Skills' ? 'nav-link active' : 'nav-link'}
-        >
-          Picking Resources
-        </a>
-      </li>
-      <li className="nav-item">
-        <a
           href="#Elock"
 
           onClick={() => handlePageChange('Elock')}
@@ -71,6 +61,16 @@ function NavTabs({ currentPage, handlePageChange }) {
           className={currentPage === 'Types' ? 'nav-link active' : 'nav-link'}
         >
           Medeco Type Identifications
+        </a>
+      </li>
+      <li className="nav-item">
+        <a
+          href="#Skills"
+
+          onClick={() => handlePageChange('Skills')}
+          className={currentPage === 'Skills' ? 'nav-link active' : 'nav-link'}
+        >
+          Picking Resources
         </a>
       </li>
     </ul>
