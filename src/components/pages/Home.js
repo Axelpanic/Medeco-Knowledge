@@ -14,7 +14,7 @@ export default function Home() {
           </p>
         <p>Click on a page above to see various pieces of information.
         </p>
-        <img src={Lpu} style={{width:200, height:200, padding:15}} alt="lpu logo" /> <img src={Logo} style={{width:400, height:200, padding:15}} alt="onlypins logo" />
+        <img src={Lpu} style={{width:200, height:200, padding:15}} alt="lpu logo" /> <img src={Logo} style={{width:300, padding:15}} alt="onlypins logo" />
         <p></p>
       </div>
     </div>
