@@ -5,10 +5,12 @@ import Logo from '../../assets/images/onlypins_logo.png'
 export default function Home() {
   return (
     <div className='content'>
-      <h1>Home</h1>
+      <h1 style={{color:'#FFFAFA'}}>Home</h1>
       <div className='cardish'>
         <p>
           Welcome to onlyPins's repositiory of Medeco knowledge.
+
+          <h2> webpage is undergoing some changes, please stand by </h2>
           </p>
           <p>
           </p>

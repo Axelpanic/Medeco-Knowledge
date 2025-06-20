@@ -9,7 +9,7 @@ import Dimple from "../../assets/images/Duracam.png";
 export default function About() {
   return (
     <div className='content'>
-      <h2>The Differences in designs</h2>
+      <h2 style={{color: 'white'}}>The Differences in designs</h2>
       <div className='cardish'>
         <p>
             <h4> Medeco Original </h4>

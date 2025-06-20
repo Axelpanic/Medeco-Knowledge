@@ -9,8 +9,9 @@ import OliverR from "../../assets/images/roy oliver.jpg";
 export default function About() {
   return (
     <div className='content'>
-      <h2>About The Company, Medeco</h2>
+      <h2 style={{color:'#FFFAFA'}}>About The Company, Medeco</h2>
       <div className='cardish'>
+        <h3 style={{color: 'white'}}> Mecanical Development Company</h3>
         <p><img src="https://www.medeco.com/content/dam/assa-abloy/americas/aeh/medeco-authored/site-imagery/about-us/medeco-history.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg" alt='roy c spain in his basement' style={{width: '50%'}} /> </p>
         <p>
           In the 1950s, Roy Clifton Spain (pictured above) started his own business with Paul Powel in his basement in Roanoke, Virginia. They started the Mechanical Development Company with the intention of tool and die manufacturing.
@@ -30,6 +31,7 @@ export default function About() {
         <p>
           This contest brought MEDECO into the spotlight, and the company began to sell very well, particularly in NYC.
         </p>
+        <h3> Hillenbrand steps in</h3>
         <p>
           In 1972, Roy C. Spain sold his rights to the patent to the main company and Roy Oliver became the head of MEDECO. In 1983, Hillenbrand Industries bought MEDECO, expanding it and introducing the MEDECO Biaxial around the world.
         </p>
@@ -42,7 +44,8 @@ export default function About() {
         <p>
           <img src={Sold} alt="NYT article about the sale to ASSA ABLOY Group" style={{ width: '70%' }} />
         </p>
-        <p> Medeco has gotten into two lawsuits with another famous manufacturer, Emhart (otherwise known as Corbin/Russwin). Not mugh is know about the case other than Medeco won and Emhart ceased maufacturing.</p>
+        <p> Medeco has gotten into two lawsuits with another famous manufacturer, Emhart (otherwise known as Corbin/Russwin). Not much is know about the patent infringement case other than Medeco won and Emhart ceased maufacturing.</p>
+        <h3> Assa Abloy Group takes over</h3>
         <p>
           In 1998, MEDECO was sold again, this time to the ASSA ABLOY Group. This partnership provided access to more resources and patents. Leveraging ASSA ABLOY's innovations, MEDECO finished the M3 in 2003 and launched the M4 in 2017. Both models, much like their original locks, are UL patented to ensure security against duplicate keys.
         </p>

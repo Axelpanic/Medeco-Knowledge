@@ -4,7 +4,7 @@ import "../../assets/style/pages.css";
 export default function About() {
   return (
     <div className='content'>
-      <h2>Picking Theory</h2>
+      <h2 style={{color:'white'}}>Picking Theory</h2>
       <div className='cardish'>
         <p> 
             <h3>How to pick standard medecos, KIK and cylinder style. </h3>

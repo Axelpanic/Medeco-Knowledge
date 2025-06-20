@@ -4,7 +4,7 @@ import "../../assets/style/pages.css";
 export default function About() {
   return (
     <div className='content'>
-      <h2>Resources on Picking MEDECO</h2>
+      <h2 style={{color:"#FFFAFA"}}>Resources on Picking MEDECO</h2>
       <div className='cardish'>
         <p>
           <h4>

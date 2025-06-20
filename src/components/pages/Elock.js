@@ -7,7 +7,7 @@ export default function Home() {
       <h1>MEDECO Electronic Locks</h1>
       <div className='cardish'>
         <p>
-          <h3> MEDECO Siteline </h3>
+          <h3 style= {{color:'white'}}> MEDECO Siteline </h3>
         </p>
         <p>
             The Medeco Siteline electronic was Medeco's first dip into electronic solutions to security. The good? It was battery powered, included a medeco style key for key control plus electronics, and allowed for key control remotely.

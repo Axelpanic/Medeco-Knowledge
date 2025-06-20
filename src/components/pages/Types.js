@@ -5,7 +5,7 @@ import Metrolock from '../../assets/images/IMG_1034.jpg';
 export default function Home() {
   return (
     <div className='content'>
-      <h1>Types of Medeco Locks</h1>
+      <h1 style={{color:'#FFFAFA'}}>Types of Medeco Locks</h1>
       <div className='cardish'>
         </div>
         <div className='cardish'>
@@ -41,8 +41,10 @@ export default function Home() {
           <p> These padlocks contain a biaxial style cam core. These are avaliable in puck style, square bodies, and round bodies. These padlocks were manufactured by American Locks and show their three letter id numbers.</p>
         
         <h3> Military Padlocks</h3>
+        <img src={Millock} alt= "military padlocks" style={{width:'25%'}} />
         <p> Medeco in the early 70's partnered with Sargent and Greenleaf to make several high security padlocks for use in Military applications. This list has several but does not contain all of the variants.
         </p>
+        <p> Hisheer: Retangular body, medeco core (more information to follow) </p>
         <p> S&G 826 (a thru D): Short oval shaped, medeco classic or biaxial core (based on year made)</p>
         <p> <img src="https://i.ebayimg.com/images/g/4EoAAOSwg7RmbH6X/s-l1200.jpg" alt="826 c lock" style={{ width: '40%' }} /> </p>
         <p> S&G 831 (A and B): Taller protected shackle, mostly biaxial cores.Ingersoll is stamped on many of these.</p>

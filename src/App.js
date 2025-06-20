@@ -7,7 +7,7 @@ import Footer from './components/footer';
 //App building
 function App() {
     return (
-         <div> 
+         <div style={{backgroundColor:'#000080'}}> 
             <Header />
             <PortfolioContainer />
             <Footer />
