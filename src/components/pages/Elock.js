@@ -39,7 +39,7 @@ export default function Home() {
             I don't have too much information about the XT system at this time.
         </p>
       </div>
-      <div>
+      <div className='cardish'>
         <h3> MEDECO NextGen</h3>
         <p>
           Information to follow
