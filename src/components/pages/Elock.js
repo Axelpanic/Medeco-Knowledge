@@ -4,10 +4,10 @@ import "../../assets/style/pages.css";
 export default function Home() {
   return (
     <div className='content'>
-      <h1>MEDECO Electronic Locks</h1>
+      <h1 style= {{color:'white'}}>MEDECO Electronic Locks</h1>
       <div className='cardish'>
         <p>
-          <h3 style= {{color:'white'}}> MEDECO Siteline </h3>
+          <h3> MEDECO Siteline </h3>
         </p>
         <p>
             The Medeco Siteline electronic was Medeco's first dip into electronic solutions to security. The good? It was battery powered, included a medeco style key for key control plus electronics, and allowed for key control remotely.
@@ -37,6 +37,12 @@ export default function Home() {
         <p>
             The XT system is the latest and greatest electronic system from Medeco. This system uses a single key style and possibly keyway to allow access to the lock. The keys are prgrammed to open specific locks. All of the power is in the key, much like the cliq. This system really only has one difference in my opnion, it fits inside of cam locks. Otherwise, the only difference from the cliq system appears to be a rechargable key rather than a watch battery and the ability to have a dual custody cylinder.
             I don't have too much information about the XT system at this time.
+        </p>
+      </div>
+      <div>
+        <h3> MEDECO NextGen</h3>
+        <p>
+          Information to follow
         </p>
       </div>
     </div>

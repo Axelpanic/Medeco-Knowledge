@@ -18,7 +18,7 @@ export default function About() {
           The Medeco Original comes with a few different driver pin types: Mushroom style and Standard style.
         </p>
         <p>
-        <img src={Patent1} alt={"patent of medeco classic"} style={{ width: '50%' }} />
+        <img src='https://www.lockwiki.com/images/thumb/7/7e/Medeco_Original_cylinder.jpg/240px-Medeco_Original_cylinder.jpg' alt={"patent of medeco classic"} style={{ width: '50%' }} />
         </p>
         <p> 
           The 'V' shaped pins make for easy spinning and manipulation as opposed to later versions.
