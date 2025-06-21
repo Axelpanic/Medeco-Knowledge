@@ -48,7 +48,7 @@ export default function About() {
         <p>
           <h4> Medeco 4 </h4>
         </p>
-        <p> The Medeco 4 incorporated several assa/abloy improvements, from finer tolerances to side pins similar to other assa abloy group manufacturers. The Medeco 4 has Barrels with matching coutermilling, mushrooms, and one or two standard pins. The side pins feature 2 or 3 false gate/variable height true gate pins and one interactive element pin.  
+        <p> The Medeco 4 incorporated several Assa Abloy improvements, from finer tolerances to side pins similar to other Assa Abloy group manufacturers. The Medeco 4 has Barrels with matching counter-milling, mushrooms, and one or two standard pins. The side pins feature 2 or 3 false gate/variable height true gate pins and one interactive element pin.  
         </p>
         <p> <img src={M4} alt='Medeco 4 mortise' style={{ width: '50%' }} /> </p>
         <p></p>

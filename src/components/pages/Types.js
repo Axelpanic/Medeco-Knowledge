@@ -14,7 +14,7 @@ export default function Home() {
           <h3>
             Medeco 50 Padlock
           </h3>
-          <img src='https://ik.imagekit.io/twr9df4sfpl/dam/dam/AADSS1237718' alt="medeco assa abloy 50 padlock" style={{ width: '25%' }} />
+          <img src='https://ik.imagekit.io/twr9df4sfpl/dam/dam/AADSS1237718' alt="medeco Assa Abloy 50 padlock" style={{ width: '25%' }} />
           <img src='https://preview.redd.it/medeco-padlock-identification-v0-uumy8hy1j4jd1.jpg?width=1080&crop=smart&auto=webp&s=6368903b4ee1b7c3a9243fc1cfb6f60372230b1c' alt="medeco 50 padlock" style={{ width: '25%' }} />
           <p> I know that this is a modern lock, but most (if not all) of the Medeco 50 padlocks look about the same with varying logos. </p>
         

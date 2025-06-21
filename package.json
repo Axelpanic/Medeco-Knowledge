@@ -1,7 +1,7 @@
 {
   "name":"MEDECO-Knowledge",
   "version": "2.0",
-  "homepage": "https://axelpanic.github.io/Medeco-Knowledge/",
+  "homepage": "medecult.net",
   "private": false,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",

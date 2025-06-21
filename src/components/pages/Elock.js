@@ -20,7 +20,7 @@ export default function Home() {
             <h3> MEDECO Cliq </h3>
         </p>
         <p>
-            <img src='https://ik.imagekit.io/twr9df4sfpl/dam/dam/AADSS1081366' alt="medeco cliq deadbolt" style={{ width: '50%' }} />
+            <img src='https://ik.imagekit.io/twr9df4sfpl/dam/dam/AADSS1081366' alt="medeco Cliq deadbolt" style={{ width: '50%' }} />
         </p>
         <p>
             The second attempt at an electronic system was the Cliq locks, launched in 2005. These locks provided systems from Medeco and from Assa Aboly, adding a tried and true electronic system universally used between Assa Abloy group manufactures.
