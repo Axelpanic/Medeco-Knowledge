@@ -9,7 +9,7 @@ import Dimple from "../../assets/images/Duracam.png";
 export default function About() {
   return (
     <div className='content'>
-      <h2 style={{color: 'white'}}>The Differences in designs</h2>
+      <h2 style={{color: 'white'}}>The Differences in design</h2>
       <div className='cardish'>
         <p>
             <h4> Medeco Original </h4>
@@ -48,7 +48,7 @@ export default function About() {
         <p>
           <h4> Medeco 4 </h4>
         </p>
-        <p> The Medeco 4 incorporated several assa/abloy improvments, from finer tolerances to side pins similar to other assa abloy group manufacturers. The Medeco 4 has Barrels with matching coutermilling, mushrooms, and one or two standard pins. The side pins feature 2 or 3 false gate/variable height true gate pins and one interactive element pin.  
+        <p> The Medeco 4 incorporated several assa/abloy improvements, from finer tolerances to side pins similar to other assa abloy group manufacturers. The Medeco 4 has Barrels with matching coutermilling, mushrooms, and one or two standard pins. The side pins feature 2 or 3 false gate/variable height true gate pins and one interactive element pin.  
         </p>
         <p> <img src={M4} alt='Medeco 4 mortise' style={{ width: '50%' }} /> </p>
         <p></p>
@@ -61,13 +61,13 @@ export default function About() {
           <h4>Bilevel</h4>
         </p>
         <p>
-          The Medeco Bilevel (both m3 and m4) contain the standard sidebar featuers (slider or side pins) and a reverse style sidebar. Unlike the channels for rotation in the medeco locks, these contain a height based cutout that fits level with the side bar. Any number of the pins (usually between 2 and 4) contain these height based cutouts that react with the side bar.  
+          The Medeco Bilevel (both m3 and m4) contain the standard sidebar features (slider or side pins) and a reverse style sidebar. Unlike the channels for rotation in the medeco locks, these contain a height based cutout that fits level with the sidebar. Any number of the pins (usually between 2 and 4) contain these height based cutouts that react with the sidebar.  
         </p>
         <p> <img src="https://cdn11.bigcommerce.com/s-kyyt8tlqvd/images/stencil/1280x1280/products/25623/453304/Medeco-Original-Standard-6-Pin-Mortise-Cylinder-1-18-1-34-Straight-Cam-00-Keyway_108976__46273.1726368362.jpg?c=1" alt="bilevel cylinders" style={{width:'50%'}} /> </p>
         <p> 
           <h4> Medeco Cam Locks</h4>
         </p>
-        <p> Much like the bilevel, the cam locks feature the same features of the main Medeco locks with a different sidebar. These have rounded fingers to allow to slot into the pins of the cam lock. 
+        <p> Much like the bilevel, the cam locks feature the same features of the main Medeco locks with a different sidebar. These have rounded fingers to allow them to slot into the pins of the cam lock. 
         </p>
         <p>
         <img src={Campin} alt={"patent drawing of a cam pin."} style={{ width:'50%' }} />
@@ -76,14 +76,14 @@ export default function About() {
         <p>
           <h4>Medeco Duracam</h4>
         </p>
-        <p>When talking about strange medeco locks, you can't forget the duracam. This was medeco's venture into dimple locks using M3 keys. Using the same style of pins as the Cam lock, the key is inserted horizontal. Odd, but definately unique. These come in Biaxial and M3 varieties.
+        <p>When talking about strange medeco locks, you can't forget the duracam. This was medeco's venture into dimple locks using M3 keys. Using the same style of pins as the Cam lock, the key is inserted horizontal. Odd, but defiantly unique. These come in Biaxial and M3 varieties.
         </p>
         <p> <img src={Dimple} alt={"medeco duracam."} style={{ width:'50%' }} /> </p>
 
         <p>
           <h4> Keymark</h4>
         </p>
-        <p> Keymark locks are much more standard locks than any other medecos. No sidebar here, these pin tips are cone shaped like normal locks. The security here is the outragious angle of the keyway keeping some low security for less expensive prices.</p>
+        <p> Keymark locks are much more standard than any other medecos. No sidebar here, these pin tips are cone shaped like normal locks. The security here is the outrageous angle of the keyway keeping some low security for less expensive prices.</p>
         <p> <img src="https://www.lockwiki.com/images/thumb/4/4c/Medeco_Keymark_KIK_cylinder.jpg/240px-Medeco_Keymark_KIK_cylinder.jpg" alt="keymark kik" style={{width:'50%'}} /> </p>
         <p>
           <h4>X4</h4>

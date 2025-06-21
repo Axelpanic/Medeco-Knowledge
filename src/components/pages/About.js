@@ -20,7 +20,7 @@ export default function About() {
           <img src={OliverR} alt="Roy Oliver pictured at MEDECO in Virginia" style={{ width: '70%' }} />
         </p>
         <p>
-          In 1957, they had their first prototype of a pick proof key but decided not to move forward. However, on March 1st, 1967, Roy Spain submitted a patent application, listing himself and his three coworkers (Roy Oliver (pictured above), Fred Wagner and Elvis Flora) as the designers. Roy and Paul split ways in the mid '60s into two separate companies, MEDECO Security Locks Co. being the lockmaking company.
+          In 1957, they had their first prototype of a pick proof key but decided not to move forward. However, on March 1st, 1967, Roy Spain submitted a patent application, listing himself and his three coworkers (Roy Oliver (pictured above), Fred Wagner and Elvis Flora) as the designers. Roy and Paul split ways in the mid '60s into two separate companies, MEDECO Security Locks Co. being the lock manufacturing company.
         </p>
         <p>
           <img src={Patentone} alt="Patent from March 1st, 1967" style={{ width: '70%' }} />
@@ -44,7 +44,7 @@ export default function About() {
         <p>
           <img src={Sold} alt="NYT article about the sale to ASSA ABLOY Group" style={{ width: '70%' }} />
         </p>
-        <p> Medeco has gotten into two lawsuits with another famous manufacturer, Emhart (otherwise known as Corbin/Russwin). Not much is know about the patent infringement case other than Medeco won and Emhart ceased maufacturing.</p>
+        <p> Medeco has gotten into two lawsuits with another famous manufacturer, Emhart (otherwise known as Corbin/Russwin). Not much is known about the patent infringement case other than Medeco won and Emhart ceased manufacturing.</p>
         <h3> Assa Abloy Group takes over</h3>
         <p>
           In 1998, MEDECO was sold again, this time to the ASSA ABLOY Group. This partnership provided access to more resources and patents. Leveraging ASSA ABLOY's innovations, MEDECO finished the M3 in 2003 and launched the M4 in 2017. Both models, much like their original locks, are UL patented to ensure security against duplicate keys.
