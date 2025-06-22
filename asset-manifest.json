@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/medecult.net/static/css/main.00f22692.css",
-    "main.js": "/medecult.net/static/js/main.800c1b9b.js",
-    "static/media/IMG_1034.jpg": "/medecult.net/static/media/IMG_1034.bce8f2886ad1c59c4339.jpg",
-    "static/media/milpadlocks.png": "/medecult.net/static/media/milpadlocks.846d27964fef11582552.png",
-    "static/media/medeco history 3.png": "/medecult.net/static/media/medeco history 3.1c9fde12b1decbe87303.png",
-    "static/media/m3.png": "/medecult.net/static/media/m3.1e8dc5998ba19ad00ef3.png",
-    "static/media/m4.png": "/medecult.net/static/media/m4.23020b3e0876c58ad9c7.png",
-    "static/media/Duracam.png": "/medecult.net/static/media/Duracam.585e4b04bcb18fe6d6eb.png",
-    "static/media/LPU_Logo.png": "/medecult.net/static/media/LPU_Logo.dd5fad4fc59f9c97b922.png",
-    "static/media/patent 1970 blownup.png": "/medecult.net/static/media/patent 1970 blownup.af9fee53e1fc65cdd3ff.png",
-    "static/media/cam lock pin.png": "/medecult.net/static/media/cam lock pin.9b302e5245d6509d02d7.png",
-    "static/media/onlypins_logo.png": "/medecult.net/static/media/onlypins_logo.a3c87bb02449839f3de9.png",
-    "static/media/roy oliver.jpg": "/medecult.net/static/media/roy oliver.a9629abf4af19854df0d.jpg",
-    "static/media/hillenbrand sells.png": "/medecult.net/static/media/hillenbrand sells.4d881479cc4e07d3740f.png",
-    "static/media/reddit-logo-icon-1024x1024-215h6kce.png": "/medecult.net/static/media/reddit-logo-icon-1024x1024-215h6kce.75a528bc1b25329a2985.png",
-    "static/media/discord_logo_512x512.png": "/medecult.net/static/media/discord_logo_512x512.d33dffd9d88ce16a7c36.png",
-    "static/media/patent2.png": "/medecult.net/static/media/patent2.b154b917b105ea6cee42.png",
-    "index.html": "/medecult.net/index.html",
-    "main.00f22692.css.map": "/medecult.net/static/css/main.00f22692.css.map",
-    "main.800c1b9b.js.map": "/medecult.net/static/js/main.800c1b9b.js.map"
+    "main.css": "/Medeco-Knowledge/static/css/main.00f22692.css",
+    "main.js": "/Medeco-Knowledge/static/js/main.2444dc08.js",
+    "static/media/IMG_1034.jpg": "/Medeco-Knowledge/static/media/IMG_1034.bce8f2886ad1c59c4339.jpg",
+    "static/media/milpadlocks.png": "/Medeco-Knowledge/static/media/milpadlocks.846d27964fef11582552.png",
+    "static/media/medeco history 3.png": "/Medeco-Knowledge/static/media/medeco history 3.1c9fde12b1decbe87303.png",
+    "static/media/m3.png": "/Medeco-Knowledge/static/media/m3.1e8dc5998ba19ad00ef3.png",
+    "static/media/m4.png": "/Medeco-Knowledge/static/media/m4.23020b3e0876c58ad9c7.png",
+    "static/media/Duracam.png": "/Medeco-Knowledge/static/media/Duracam.585e4b04bcb18fe6d6eb.png",
+    "static/media/LPU_Logo.png": "/Medeco-Knowledge/static/media/LPU_Logo.dd5fad4fc59f9c97b922.png",
+    "static/media/patent 1970 blownup.png": "/Medeco-Knowledge/static/media/patent 1970 blownup.af9fee53e1fc65cdd3ff.png",
+    "static/media/cam lock pin.png": "/Medeco-Knowledge/static/media/cam lock pin.9b302e5245d6509d02d7.png",
+    "static/media/onlypins_logo.png": "/Medeco-Knowledge/static/media/onlypins_logo.a3c87bb02449839f3de9.png",
+    "static/media/roy oliver.jpg": "/Medeco-Knowledge/static/media/roy oliver.a9629abf4af19854df0d.jpg",
+    "static/media/hillenbrand sells.png": "/Medeco-Knowledge/static/media/hillenbrand sells.4d881479cc4e07d3740f.png",
+    "static/media/reddit-logo-icon-1024x1024-215h6kce.png": "/Medeco-Knowledge/static/media/reddit-logo-icon-1024x1024-215h6kce.75a528bc1b25329a2985.png",
+    "static/media/discord_logo_512x512.png": "/Medeco-Knowledge/static/media/discord_logo_512x512.d33dffd9d88ce16a7c36.png",
+    "static/media/patent2.png": "/Medeco-Knowledge/static/media/patent2.b154b917b105ea6cee42.png",
+    "index.html": "/Medeco-Knowledge/index.html",
+    "main.00f22692.css.map": "/Medeco-Knowledge/static/css/main.00f22692.css.map",
+    "main.2444dc08.js.map": "/Medeco-Knowledge/static/js/main.2444dc08.js.map"
   },
   "entrypoints": [
     "static/css/main.00f22692.css",
-    "static/js/main.800c1b9b.js"
+    "static/js/main.2444dc08.js"
   ]
 }
