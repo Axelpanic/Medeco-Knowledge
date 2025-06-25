@@ -25,7 +25,7 @@ function NavTabs({ currentPage, handlePageChange }) {
       </li>
       <li className='nav-item'>
         <a
-          href="#keway"
+          href="#keyways"
 
           onClick={() => handlePageChange('Keyways')}
           className={currentPage === 'Keyways' ? 'nav-link active' : 'nav-link'}

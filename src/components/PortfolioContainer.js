@@ -8,6 +8,7 @@ import Skills from './pages/Skills';
 import Deployed from './pages/Deployed';
 import Elock from './pages/Elock';
 import Types from './pages/Types';
+import Keyways from './pages/keykeyways';
 
 export default function PortfolioContainer() {
   const [currentPage, setCurrentPage] = useState('Home');
@@ -34,9 +35,13 @@ export default function PortfolioContainer() {
   if (currentPage === 'Types') {
     return <Types />;
 }
+  if (currentPage === 'Keyways') {
+    return <Keyways />;
+}
+if (currentPage === 'Contact') {
     return <Contact />;
-  };
-
+}
+  }
   const handlePageChange = (page) => setCurrentPage(page);
 
   return (
