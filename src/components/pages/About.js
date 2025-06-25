@@ -5,6 +5,8 @@ import Patenttwo from '../../assets/images/patent2.png';
 import Sold from "../../assets/images/hillenbrand sells.png";
 import Medeco3 from "../../assets/images/medeco history 3.png";
 import OliverR from "../../assets/images/roy oliver.jpg";
+import Patent3 from "../../assets/images/patent3.png";
+import Patent4 from "../../assets/images/patent4.png";
 
 export default function About() {
   return (
@@ -49,6 +51,10 @@ export default function About() {
         <p>
           In 1998, MEDECO was sold again, this time to the ASSA ABLOY Group. This partnership provided access to more resources and patents. Leveraging ASSA ABLOY's innovations, MEDECO finished the M3 in 2003 and launched the M4 in 2017. Both models, much like their original locks, are UL patented to ensure security against duplicate keys.
         </p>
+        <p><img src={Patent3} alt="patent for m3" style={{ width:'50%' }}/></p>
+        <p>Medeco3 patent</p>
+        <p><img src={Patent4} alt="Medeco4 blown out" style={{ width:'50%'}} /> </p>
+        <p>Medeco4 blown out to show its parts. </p>
         <p> Since the turn of the century, Medeco has innovated and grown to include electronic locks into their lineup. These models include the CLiq system, the XT system, and the Siteline. The siteline was their first attempt but was quickly followed by the Cliq system.</p>
         <p> </p>
         <h5>Here is an excerpt from the Assa Abloy Group webpage about MEDECO's history:</h5>
