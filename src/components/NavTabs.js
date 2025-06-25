@@ -23,6 +23,16 @@ function NavTabs({ currentPage, handlePageChange }) {
           About MEDECO
         </a>
       </li>
+      <li className='nav-item'>
+        <a
+          href="#keway"
+
+          onClick={() => handlePageChange('Keyways')}
+          className={currentPage === 'Keyways' ? 'nav-link active' : 'nav-link'}
+        >
+          Keyways and Keys
+        </a>
+      </li>
       <li className="nav-item">
         <a
           href="#contact"
