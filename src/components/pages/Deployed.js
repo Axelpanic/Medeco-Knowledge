@@ -1,5 +1,8 @@
 import React from 'react';
 import "../../assets/style/pages.css";
+import Gates from '../../assets/images/original pin parts.png';
+import Core from '../../assets/images/originalcore.png';
+import Sir from '../../assets/images/skeypin.png';
 
 export default function About() {
   return (
@@ -12,6 +15,20 @@ export default function About() {
         <p>In addition to these features, MEDECO has introduced a few others. The MEDECO3 or M3 series has a slider Mechanical piece that will prevent you from setting the sidebar. If you are picking clockwise, it will be the last thing you set after reaching the deep false set. If you are picking counter clockwise, it will set when the rotations are set to the sidebar. It provides little added security in my opinion as opposed to the next security feature.</p>
         <p>The MEDECO4 or M4 series introduced side pins that prevent the sidebar from retracting. The M4 typically features 3 or 4 of these side pins. One will always be an interactive element denoted on the key with a small steel "ball" or cylinder. This side pin has no false gate. The other pins are set at one of four heights and contain one or more false gates.  More information will follow with photographs once I collect more information.</p>
         <p>The X4 or MEDECO Keymark X4 contains a check pin. This pin will restrict rotation if it is not set. The one unique aspect about this check pin is that it can be overset. The simplest way I have found to set it correctly is taking a short end of a Z bar style tensioner and using it to hold the pin in place while also using bottom of the keyway tension off of it. Make sure your Z bar isn't too long by viewing the check pin through the port on the top of the kik or mortise. Sorry for those picking them inside padlocks and lfic/sfic bodies.</p>
+      </div>
+      <div className='cardish'>
+        <h3> the pins </h3>
+        <img src={Gates} alt='illustration of gates on a original pin' style={{width:'50%'}} />
+        <p> Looking at the pin above, look at the white circle. This is the rotation limiter allowing only 40 total degress of rotation, or 20 degrees from center. </p>
+        <p> Next, look at the red and green lines. You will notice the green line is a deep cut into the pin. This is the true gate. It is cut deep and aligns with the sidebar to allow the sidebar to retract fully. </p>
+        <p> The Red line is a shallow cut that allows the sidebar to enter it, however it doesn't allow for full rotation. This can trip you up when picking the Medeco. </p>
+        <img src={Sir} alt="serrated key pin" style={{width:'50%'}} />
+        <p> Do be aware that Medeco locks do have serrated key pins. These can prevent you from setting the sheer and prevent rotation. </p>
+      </div>
+      <div className='cardish'>
+        <h3> The core</h3>
+        <img src={Core} alt='original lock core' style={{width:'50%'}} />
+        <p> This is the core of the biaxial and original core. This one specifically is the original Medeco core. See how the sidebar has wedge like parts that point out? These sit into the true gates show above. These grooves allow the sidebar to retract into the core and the core can rotate freely. </p>
       </div>
       <div className='cardish'>
         <p> 
