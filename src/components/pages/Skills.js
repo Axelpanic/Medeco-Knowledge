@@ -10,7 +10,7 @@ export default function About() {
           <h4>
             Clicky Test
           </h4>
-          <h4> From Alpama</h4>
+          <p> From Alpama</p>
         </p>
         <p>
           <iframe width="auto" height="auto" src="https://www.youtube.com/embed/3SQvIZOZV5s?si=OZIbyhB4qgacWuq0" title="clicky test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen /> 
@@ -19,6 +19,7 @@ export default function About() {
       <div className='cardish'>
         <p>
           <h4>Progressive pinning</h4>
+          <p>brought to you by Digs (US) and LPU</p>
         </p>
         <p> <iframe width="auto" height="auto" src="https://www.youtube.com/embed/-xA1RVqkzCE?si=0jvBw1Ub9ZiLgPrK" title="clicky test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen /> </p>
       </div>
