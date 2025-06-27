@@ -13,6 +13,17 @@ export default function About() {
     <div className='content'>
       <h2 style={{color:'#FFFAFA'}}>About The Company, Medeco</h2>
       <div className='cardish'>
+        <p>
+          <h4> Sources:</h4>
+        </p>
+        <p> <a href="https://roanoke.com/medeco-marks-golden-anniversary-as-roanoke-county-plant-turns-50/article_baa94a53-59ee-5563-ac6c-32fb6ce176fe.html#:~:text=The%20company%27s%20roots%20begin%20in,pick%20open%20three%20Medeco%20locks" target="blank"> Rokanoke article: Medeco Golden anniversary</a>.
+        </p>
+        <p> <a href="https://www.lockwiki.com/index.php/Medeco" target="blank">Lockwiki: Medeco </a>
+        </p>
+        <p> <a href="https://www.prweb.com/releases/Medeco_Security_Locks_Celebrates_50_Years_of_High_Security/prweb15764393.html" target="blank"> PRweb: 50 Years of High Security</a>
+        </p>
+      </div>
+      <div className='cardish'>
         <h3> Mecanical Development Company</h3>
         <p><img src="https://www.medeco.com/content/dam/assa-abloy/americas/aeh/medeco-authored/site-imagery/about-us/medeco-history.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg" alt='roy c spain in his basement' style={{width: '50%'}} /> </p>
         <p>
@@ -60,17 +71,6 @@ export default function About() {
         <h5>Here is an excerpt from the Assa Abloy Group webpage about MEDECO's history:</h5>
         <p>
           <img src={Medeco3} alt="Official history of MEDECO from ASSA ABLOY" style={{ width: '70%' }} />
-        </p>
-      </div>
-      <div className='cardish'>
-        <p>
-          <h4> Sources:</h4>
-        </p>
-        <p> <a href="https://roanoke.com/medeco-marks-golden-anniversary-as-roanoke-county-plant-turns-50/article_baa94a53-59ee-5563-ac6c-32fb6ce176fe.html#:~:text=The%20company%27s%20roots%20begin%20in,pick%20open%20three%20Medeco%20locks" target="blank"> Rokanoke article: Medeco Golden anniversary</a>.
-        </p>
-        <p> <a href="https://www.lockwiki.com/index.php/Medeco" target="blank">Lockwiki: Medeco </a>
-        </p>
-        <p> <a href="https://www.prweb.com/releases/Medeco_Security_Locks_Celebrates_50_Years_of_High_Security/prweb15764393.html" target="blank"> PRweb: 50 Years of High Security</a>
         </p>
       </div>
     </div>
