@@ -37,6 +37,10 @@
     }
   }
 
+  #iframe{
+    padding:"20",
+  }
+
 .row {
     padding: 1%;
 }
