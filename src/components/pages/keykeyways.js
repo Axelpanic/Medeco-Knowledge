@@ -1,11 +1,12 @@
 import React from 'react';
 import "../../assets/style/pages.css";
 import keyways from "../../assets/images/keyways.png";
-import G3 from "../../assets/images/g3key.png";
+import G3 from "../../assets/images/G3 key.png";
 import K1515 from "../../assets/images/1515key.png";
-import K1644 from "../../assets/images/1644key.png";
-import Fireking from "../../assets/images/firekingkey.png";
+import K1644 from "../../assets/images/1644 blank.png";
+import Fireking from "../../assets/images/fireking 1655.png";
 import Sky from "../../assets/images/skykey.png";
+import K1687 from "../../assets/images/1687 key.png"
 
 export default function Keyways() {
   return (
@@ -37,7 +38,8 @@ export default function Keyways() {
             <p> This is a Fireking cabinet key. Ilco 1655.</p>
             <img src={Sky} alt="Sky key" style={{ width:"50%"}} />
             <p> This is the sky key or Ilco 1517.</p>
-            <p> more to be added soon</p>
+            <img src={K1687} alt="1687 key" style={{width:'50%'}} />
+            <p> 1687 key</p>
         </div>
         <div className='cardish'>
             <h3> Links to buy blanks.</h3>
