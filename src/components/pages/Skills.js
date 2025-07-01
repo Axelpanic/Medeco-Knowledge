@@ -1,5 +1,6 @@
 import React from 'react';
 import "../../assets/style/pages.css";
+import Medecoder from "../../assets/images/oldtools.jpg"
 
 export default function About() {
   return (
@@ -58,7 +59,7 @@ export default function About() {
       <div className='cardish'>
         <p>
           <h3> The Medecoder</h3>
-          <p><img src="http://www.theamazingking.com/images/oldtools.jpg" alt="medecoder" style={{width:'50%'}} /> </p>
+          <p> <img src={Medecoder} alt="medecoder" style={{width:'50%'}} /> </p>
         </p>
         <p><a href="http://www.theamazingking.com/medecoder.php" target="blank"> Link to the Medecoder website</a> </p>
       </div>
