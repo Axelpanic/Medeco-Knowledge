@@ -27,7 +27,8 @@ export default function Keyways() {
         </div>
         <div className='cardish'>
             <h3> Common keys</h3>
-            <p> Small note: There are over 50 original keyways and over 40 biaxial keyways.  (Taken from clksupplies, linked below) </p>
+            <p>(Photos taken from clksupplies, linked below)</p>
+            <p> Small note: There are over 50 original keyways and over 40 biaxial keyways. </p>
             <img src={G3} alt='g3 key blank' style={{ width:'50%'}} />
             <p> This is a g3 key blank. You will see them as Biaxial keys with a eagle.</p>
             <img src={K1515} alt="medeco original key" style={{ width:'50%'}} />
