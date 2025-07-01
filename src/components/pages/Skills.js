@@ -10,9 +10,9 @@ export default function About() {
             My videos
           </h4>
         <p>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/3eluNKNFVMw?si=eQt8NbQExkHl1Oie" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-           <iframe width="560" height="315" src="https://www.youtube.com/embed/sp4f_-ueDO0?si=ncu3uZuAVRRnEjY1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-           <iframe width="560" height="315" src="https://www.youtube.com/embed/cDsQbfG29dw?si=s1X_iLit2hamvRHH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="auto" height="auto" src="https://www.youtube.com/embed/3eluNKNFVMw?si=eQt8NbQExkHl1Oie" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+           <iframe width="auto" height="auto" src="https://www.youtube.com/embed/sp4f_-ueDO0?si=ncu3uZuAVRRnEjY1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+           <iframe width="auto" height="auto" src="https://www.youtube.com/embed/cDsQbfG29dw?si=s1X_iLit2hamvRHH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </p> 
       </div>
       <div className='cardish'>
@@ -58,6 +58,7 @@ export default function About() {
       <div className='cardish'>
         <p>
           <h3> The Medecoder</h3>
+          <p><img src="http://www.theamazingking.com/images/oldtools.jpg" alt="medecoder" style={{width:'50%'}} /> </p>
         </p>
         <p><a href="http://www.theamazingking.com/medecoder.php" target="blank"> Link to the Medecoder website</a> </p>
       </div>

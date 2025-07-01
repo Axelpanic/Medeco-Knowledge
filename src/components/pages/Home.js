@@ -10,7 +10,7 @@ export default function Home() {
       <h1 style={{color:'#FFFAFA'}}>Home</h1>
       <div className='cardish'>
         <p>
-          Welcome to onlyPins's repositiory of Medeco knowledge.
+          Welcome to onlyPins's repository of Medeco knowledge.
           </p>
           <p>
           </p>

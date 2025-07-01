@@ -1,5 +1,6 @@
 import React from 'react';
 import "../../assets/style/pages.css";
+import Siteline from "../../assets/images/siteline.jpg";
 
 export default function Home() {
   return (
@@ -9,6 +10,7 @@ export default function Home() {
         <p>
           <h3> MEDECO Siteline </h3>
         </p>
+        <p> <img src={Siteline} alt="medeco siteline keyway" style={{ width: '50%' }} /></p>
         <p>
             The Medeco Siteline electronic was Medeco's first dip into electronic solutions to security. The good? It was battery powered, included a medeco style key for key control plus electronics, and allowed for key control remotely.
             From all the information I can find, it was not widely accepted by the masses. Regardless, it had some amazing features, control access for 1200 uses and up to 800 transactions. Printable report date to audit access. Flexible scheduling to turn off doors and keys at certain times.
@@ -35,12 +37,13 @@ export default function Home() {
         </p>
         <p> <img src='https://ik.imagekit.io/twr9df4sfpl/dam/dam/AADSS1248410' alt="xt system locks" style= {{ width: '50%' }} /> </p>
         <p>
-            The XT system is the latest and greatest electronic system from Medeco. This system uses a single key style and possibly keyway to allow access to the lock. The keys are programmed to open specific locks. All of the power is in the key, much like the Cliq system. This system really only has one difference in my opinion, it fits inside of cam locks. Otherwise, the only difference from the Cliq system appears to be a rechargeable key rather than a watch battery and the ability to have a dual custody cylinder.
+            The <a href="https://www.medeco.com/en/key-systems-and-key-management/intelligent-key-systems/product-details.aehpdp-xt-aeh_medeco_219731">XT system </a>is the latest and greatest electronic system from Medeco. This system uses a single key style and possibly keyway to allow access to the lock. The keys are programmed to open specific locks. All of the power is in the key, much like the Cliq system. This system really only has one difference in my opinion, it fits inside of cam locks. Otherwise, the only difference from the Cliq system appears to be a rechargeable key rather than a watch battery and the ability to have a dual custody cylinder.
             I don't have too much information about the XT system at this time.
         </p>
       </div>
       <div className='cardish'>
-        <h3> MEDECO NextGen</h3>
+        <h3> MEDECO NexGen</h3>
+        <p> <img src="https://ik.imagekit.io/twr9df4sfpl/dam/dam/AADSS1014609" alt="medeco nexgen" style={{width:'50%'}} /> </p>
         <p>
           Information to follow
         </p>
