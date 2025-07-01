@@ -1,4 +1,5 @@
 import React from 'react';
+import "../../assets/style/pages.css";
 import Lpu from '../../assets/images/LPU_Logo.png'
 import Logo from '../../assets/images/onlypins_logo.png'
 import Dislogo from '../../assets/images/discord_logo_512x512.png'

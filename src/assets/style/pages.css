@@ -30,7 +30,7 @@
 @media all and (min-width:200px) and (max-width: 960px) {
     .cardish{
         width: 95%;
-        background-color: lightskyblue;
+        background-color: rgb(88, 151, 190);
         margin: auto;
         padding: top 25px;
         border-radius: 10px;
