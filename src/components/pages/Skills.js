@@ -6,6 +6,16 @@ export default function About() {
     <div className='content'>
       <h2 style={{color:"#FFFAFA"}}>Resources on Picking MEDECO</h2>
       <div className='cardish'>
+          <h4>
+            My videos
+          </h4>
+        <p>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/3eluNKNFVMw?si=eQt8NbQExkHl1Oie" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+           <iframe width="560" height="315" src="https://www.youtube.com/embed/sp4f_-ueDO0?si=ncu3uZuAVRRnEjY1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+           <iframe width="560" height="315" src="https://www.youtube.com/embed/cDsQbfG29dw?si=s1X_iLit2hamvRHH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </p> 
+      </div>
+      <div className='cardish'>
         <p>
           <h4>
             Clicky Test
