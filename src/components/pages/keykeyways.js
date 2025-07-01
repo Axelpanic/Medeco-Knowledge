@@ -2,18 +2,18 @@ import React from 'react';
 import "../../assets/style/pages.css";
 import keyways from "../../assets/images/keyways.png";
 import G3 from "../../assets/images/G3 key.png";
-import K1515 from "../../assets/images/1515key.png";
+import K1515 from "../../assets/images/original key blank.png";
 import K1644 from "../../assets/images/1644 blank.png";
 import Fireking from "../../assets/images/fireking 1655.png";
-import Sky from "../../assets/images/skykey.png";
-import K1687 from "../../assets/images/1687 key.png"
+import Sky from "../../assets/images/sky key blank.png";
+import K1687 from "../../assets/images/1687 key.png";
 
 export default function Keyways() {
   return (
     <div className='content'>
         <h2 style={{color:'#FFFAFA'}}>Keyways and Key Identifications</h2>
         <div className='cardish'>
-            <h3> Common keyways and their Ilco blanks</h3>
+            <h3> Common keyways and their Ilco blanks (Taken from clksupplies, linked below)</h3>
             <p> Small note: each keyway has a Ilco 4 digit code. The letter 'A' denotes 6 pin where as the four digit number denotes 5 pin.</p>
             <img src={keyways} alt='keyway diagrams' style={{ width: '70%' }}/>
             <p> These are your most common keyways and their Ilco blanks. Lets break it down</p>
