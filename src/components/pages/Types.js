@@ -5,12 +5,10 @@ import Metrolock from '../../assets/images/IMG_1034.jpg';
 export default function Home() {
   return (
     <div className='content'>
-      <h1 style={{color:'#FFFAFA'}}>Types of Medeco Locks</h1>
+      <h1 style={{color:'#FFFAFA'}}>Types of Medeco Padlocks</h1>
       <div className='cardish'>
         </div>
         <div className='cardish'>
-          <h2> Padlock types </h2>
-          <p> I know you all want this first, so here are padlock types that I know of.</p>
           <h3>
             Medeco 50 Padlock
           </h3>
@@ -18,9 +16,8 @@ export default function Home() {
           <img src='https://preview.redd.it/medeco-padlock-identification-v0-uumy8hy1j4jd1.jpg?width=1080&crop=smart&auto=webp&s=6368903b4ee1b7c3a9243fc1cfb6f60372230b1c' alt="medeco 50 padlock" style={{ width: '25%' }} />
           <p> I know that this is a modern lock, but most (if not all) of the Medeco 50 padlocks look about the same with varying logos. </p>
         
-          <h3> Medeco protector and medeco 826 padlocks </h3>
+          <h3> Medeco protector</h3>
           <img src='https://i.imgur.com/BZFwF5m.jpeg' alt= "medeco protector padlock" style= {{width: '25%'}} />
-          <img src='https://antique-padlocks.com/tn/pt/sg826a_1972_5857_tn.jpg' alt="826 padlock" style= {{width:'25%'}} />
         
           <h3>
             MEDECO original Cam Padlock

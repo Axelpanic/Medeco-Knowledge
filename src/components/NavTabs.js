@@ -70,7 +70,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           onClick={() => handlePageChange('Types')}
           className={currentPage === 'Types' ? 'nav-link active' : 'nav-link'}
         >
-          Medeco Type Identifications
+          Medeco padlock Identifications
         </a>
       </li>
       <li className="nav-item">
