@@ -51,6 +51,13 @@ export default function Home() {
         <p> S&G 951: Believed to be the latest padlock made for the military by Medeco and S&G. Two part, newest version I've seen is 2014.</p>
         <p> <img src="https://www.safelocking.co.uk/images/new_products/padlocks/951_951C_High_Security_Padlock.png" alt="951 padlock" style={{width: '50%'}} /> </p>
       </div>
+      <div className="cardish" >
+        <h3> Sargent and Greenleaf Mil lock Documents</h3>
+        <p> These are PDfs on safe sites.</p>
+        <p> <a href="https://ftp.sargentandgreenleaf.com/pdf/630-116_826_padlock.pdf"> 826 manual</a> </p>
+        <p> <a href="https://exwc.navfac.navy.mil/Portals/88/Documents/EXWC/DoD_Locks/PDFs/TDS-2043-SHR.pdf"> Technical data sheet for the 833C</a> </p>
+        <p> <a href="https://sargentandgreenleaf.com/wp-content/uploads/2020/06/Servicing_951.pdf"> Servicing manual for the 951</a> </p>
+        </div>
     </div>
   );
 }

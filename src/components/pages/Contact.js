@@ -10,6 +10,9 @@ import Durapatent from "../../assets/images/patent3dura.png"
 import Patent2 from "../../assets/images/patent2.png";
 import Patent3 from "../../assets/images/patent3.png";
 import Patent4 from "../../assets/images/patent4.png";
+import M3gut from "../../assets/images/m3gut.jpg";
+import Bigut from "../../assets/images/biaxgut.jpg";
+import Orggut from "../../assets/images/origgut.jpg";
 
 export default function About() {
   return (
@@ -25,7 +28,7 @@ export default function About() {
         <p>
         <img src='https://www.lockwiki.com/images/thumb/7/7e/Medeco_Original_cylinder.jpg/240px-Medeco_Original_cylinder.jpg' alt={"Medeco original"} style={{ width: '25%' }} /> <img src={Patent1} alt="patent 1967" style={{ width: '25%'}} />
         </p>
-        
+        <p> <img src={Orggut} alt="gutted original" style={{width:'75%'}} /> </p>
         <p> 
           The 'V' shaped pins make for easy spinning and manipulation as opposed to later versions.
         </p>
@@ -37,8 +40,9 @@ export default function About() {
         <p>
           The Medeco Biaxial mainly contains mushroom and standard driver pins. However, in the late 80's and 90's barrels were added to increase picking difficulty. False gates became common as well. 
         </p>
-        <img src="https://files.thebuilderssupply.com//imlss/images/all/005308.png" alt='Biaxial design' style={{ width: '25%' }} /> <img src={Patent2} alt="M2 patent" style={{width:'25%'}} />
-        <p></p>
+        <p><img src="https://files.thebuilderssupply.com//imlss/images/all/005308.png" alt='Biaxial design' style={{ width: '25%' }} /> <img src={Patent2} alt="M2 patent" style={{width:'25%'}} />
+        </p>
+        <p> <img src={Bigut} alt="gutted biaxial" style={{width:'75%'}} /> </p>
       </div>
       <div className='cardish'>
         <p>
@@ -48,7 +52,7 @@ export default function About() {
           The Medeco 3 featured a redesigned sidebar to include a slider. Mushroom pins, Barrels, and standard pins became the norm with this update. The slider is passive, meaning that you can get the lock to sidebar and sheer and the slider will force the lock into a false set style rotation. Once you push the slider in, you open the lock.
         </p>
         <p> <img src={M3} alt='Medeco 3 mortise' style={{ width: '25%' }} /> <img src={Patent3} alt="M3 patent" style={{width:'25%'}} /> </p>
-        <p></p>
+        <p> <img src={M3gut} alt="gutted M3" style={{width:'75%'}} /> </p>
       </div>
       <div className='cardish'>
         <p>
