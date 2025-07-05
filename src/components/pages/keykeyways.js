@@ -21,7 +21,7 @@ export default function Keyways() {
             <p> Ilco 1515 or 5ME1 is your standard key for original keys. These almost always have round heads on them.</p>
             <p> The most common biaxial keyway is the G3 keyway. These were sold as the freedom keyway and are most known for a eagle stamp on the key.</p>
             <p> Ilco 1644 or G8 is biaxial key.</p>
-            <p> Ilco 1687 will have more information coming soon.</p>
+            <p> Ilco 1687 is the patriot keyway.</p>
             <p> Ilco 1518 will have more information coming soon.</p>
             <p> Ilco 1655 is the fire king cabinet keys. These are primarily sold as cabinet, file cabinet, or desk drawers.</p>
         </div>
@@ -40,7 +40,7 @@ export default function Keyways() {
             <img src={Sky} alt="Sky key" style={{ width:"50%"}} />
             <p> This is the sky key or Ilco 1517.</p>
             <img src={K1687} alt="1687 key" style={{width:'50%'}} />
-            <p> 1687 key</p>
+            <p> 1687 key, patriot keyway</p>
         </div>
         <div className='cardish'>
             <h3> Links to buy blanks.</h3>
