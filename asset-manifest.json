@@ -1,23 +1,17 @@
 {
   "files": {
-    "main.css": "/Medeco-Knowledge/static/css/main.5fb906ce.css",
-    "main.js": "/Medeco-Knowledge/static/js/main.8bb5a29e.js",
-    "static/media/origgut.jpg": "/Medeco-Knowledge/static/media/origgut.cfc1d4c5cdfd21c46286.jpg",
-    "static/media/xt blown up.jpg": "/Medeco-Knowledge/static/media/xt blown up.e1243103bb573015e167.jpg",
+    "main.css": "/Medeco-Knowledge/static/css/main.ce960702.css",
+    "main.js": "/Medeco-Knowledge/static/js/main.48094b56.js",
     "static/media/IMG_1034.jpg": "/Medeco-Knowledge/static/media/IMG_1034.bce8f2886ad1c59c4339.jpg",
     "static/media/milpadlocks.png": "/Medeco-Knowledge/static/media/milpadlocks.846d27964fef11582552.png",
-    "static/media/m3gut.jpg": "/Medeco-Knowledge/static/media/m3gut.bc44482bea86a90f2128.jpg",
-    "static/media/biaxgut.jpg": "/Medeco-Knowledge/static/media/biaxgut.6d99ef34e5d9e0f1a5a8.jpg",
     "static/media/original pin parts.png": "/Medeco-Knowledge/static/media/original pin parts.ace027e14a0529d696ec.png",
     "static/media/medeco history 3.png": "/Medeco-Knowledge/static/media/medeco history 3.1c9fde12b1decbe87303.png",
     "static/media/originalcore.png": "/Medeco-Knowledge/static/media/originalcore.a678023efd30d398f736.png",
-    "static/media/siteline.jpg": "/Medeco-Knowledge/static/media/siteline.2670262cd0296b791d58.jpg",
     "static/media/m3.png": "/Medeco-Knowledge/static/media/m3.1e8dc5998ba19ad00ef3.png",
     "static/media/m4.png": "/Medeco-Knowledge/static/media/m4.23020b3e0876c58ad9c7.png",
     "static/media/Duracam.png": "/Medeco-Knowledge/static/media/Duracam.585e4b04bcb18fe6d6eb.png",
     "static/media/patent4.png": "/Medeco-Knowledge/static/media/patent4.a078cada452ed4806848.png",
     "static/media/patent3.png": "/Medeco-Knowledge/static/media/patent3.766dba77bb85e1fe4128.png",
-    "static/media/oldtools.jpg": "/Medeco-Knowledge/static/media/oldtools.9ac006cc8de6bd6b86f8.jpg",
     "static/media/LPU_Logo.png": "/Medeco-Knowledge/static/media/LPU_Logo.dd5fad4fc59f9c97b922.png",
     "static/media/patent3bilevel.png": "/Medeco-Knowledge/static/media/patent3bilevel.44af206078b22cad2819.png",
     "static/media/sky key blank.png": "/Medeco-Knowledge/static/media/sky key blank.05933d7e393a3d61594b.png",
@@ -38,11 +32,11 @@
     "static/media/reddit-logo-icon-1024x1024-215h6kce.png": "/Medeco-Knowledge/static/media/reddit-logo-icon-1024x1024-215h6kce.75a528bc1b25329a2985.png",
     "static/media/discord_logo_512x512.png": "/Medeco-Knowledge/static/media/discord_logo_512x512.d33dffd9d88ce16a7c36.png",
     "index.html": "/Medeco-Knowledge/index.html",
-    "main.5fb906ce.css.map": "/Medeco-Knowledge/static/css/main.5fb906ce.css.map",
-    "main.8bb5a29e.js.map": "/Medeco-Knowledge/static/js/main.8bb5a29e.js.map"
+    "main.ce960702.css.map": "/Medeco-Knowledge/static/css/main.ce960702.css.map",
+    "main.48094b56.js.map": "/Medeco-Knowledge/static/js/main.48094b56.js.map"
   },
   "entrypoints": [
-    "static/css/main.5fb906ce.css",
-    "static/js/main.8bb5a29e.js"
+    "static/css/main.ce960702.css",
+    "static/js/main.48094b56.js"
   ]
 }
