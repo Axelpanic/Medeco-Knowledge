@@ -2,6 +2,7 @@ import React from 'react';
 import "../../assets/style/pages.css";
 import Siteline from "../../assets/images/siteline.jpg";
 import Xtgut from "../../assets/images/xt blown up.jpg";
+import Xtkik from "../../assets/images/basker kik.jpg";
 
 export default function Home() {
   return (
@@ -42,7 +43,8 @@ export default function Home() {
             I don't have too much information about the XT system at this time.
         </p>
         <p>  <img src={Xtgut} alt="xt gut" style={{width:'50%'}} /> </p>
-        <p> Photo provided by Baskerville</p>
+        <p> <img src={Xtkik} alt="xtkik gut" style={{width:'50%'}} /> </p>
+        <p> Photos provided by Baskerville</p>
       </div>
       <div className='cardish'>
         <h3> MEDECO NexGen</h3>

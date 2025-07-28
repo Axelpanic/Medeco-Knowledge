@@ -1,6 +1,7 @@
 import React from 'react';
 import Millock from '../../assets/images/milpadlocks.png';
 import Metrolock from '../../assets/images/IMG_1034.jpg';
+import SG951 from '../../assets/images/9512024.jpg';
 
 export default function Home() {
   return (
@@ -48,8 +49,9 @@ export default function Home() {
         <p> <img src="https://lh6.googleusercontent.com/proxy/cMV_EmedbKtpU3DAk7Wek_6hEZatPHtZZFoIyb8BfJvvYIQaez_mvXQYneHaN42krn9LAIJOyBWJn3AgVKGr-rwhWxW-yHqzyVlZMdtpC2Y" alt="831 lock" style={{ width:'25%' }} /> </p>
         <p> S&G 833 (a and C): Taller and two sectioned version of the 831. More sleek and closer to the modern version. This one separates into two sections. </p>
         <p> <img src="https://securitysnobs.com/item_images/9078061827014dff4cf0ecad893045e4_2.jpg" alt="833 padlock" style={{width:'25%'}} /> </p>
-        <p> S&G 951: Believed to be the latest padlock made for the military by Medeco and S&G. Two part, newest version I've seen is 2014.</p>
+        <p> S&G 951: Believed to be the latest padlock made for the military by Medeco and S&G. Two part, newest version I've seen is 2024.</p>
         <p> <img src="https://www.safelocking.co.uk/images/new_products/padlocks/951_951C_High_Security_Padlock.png" alt="951 padlock" style={{width: '50%'}} /> </p>
+        <p> <img src={SG951} alt="951 padlock" style={{width: '50%'}} /> </p>
       </div>
       <div className="cardish" >
         <h3> Sargent and Greenleaf Mil lock Documents</h3>
