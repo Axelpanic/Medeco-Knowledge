@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/Medeco-Knowledge/static/css/main.5fb906ce.css",
-    "main.js": "/Medeco-Knowledge/static/js/main.f352923e.js",
+    "main.js": "/Medeco-Knowledge/static/js/main.405b528a.js",
     "static/media/origgut.jpg": "/Medeco-Knowledge/static/media/origgut.cfc1d4c5cdfd21c46286.jpg",
     "static/media/xt blown up.jpg": "/Medeco-Knowledge/static/media/xt blown up.e1243103bb573015e167.jpg",
     "static/media/IMG_1034.jpg": "/Medeco-Knowledge/static/media/IMG_1034.bce8f2886ad1c59c4339.jpg",
+    "static/media/basker kik.jpg": "/Medeco-Knowledge/static/media/basker kik.72443186fbad939239bc.jpg",
     "static/media/milpadlocks.png": "/Medeco-Knowledge/static/media/milpadlocks.846d27964fef11582552.png",
     "static/media/m3gut.jpg": "/Medeco-Knowledge/static/media/m3gut.bc44482bea86a90f2128.jpg",
     "static/media/biaxgut.jpg": "/Medeco-Knowledge/static/media/biaxgut.6d99ef34e5d9e0f1a5a8.jpg",
@@ -29,6 +30,7 @@
     "static/media/patent 1970 blownup.png": "/Medeco-Knowledge/static/media/patent 1970 blownup.af9fee53e1fc65cdd3ff.png",
     "static/media/fireking 1655.png": "/Medeco-Knowledge/static/media/fireking 1655.bc8ec94cd81c8b620edc.png",
     "static/media/patent3dura.png": "/Medeco-Knowledge/static/media/patent3dura.c308c0d06465a0e7af3f.png",
+    "static/media/9512024.jpg": "/Medeco-Knowledge/static/media/9512024.2916d172ca6d3d07bd61.jpg",
     "static/media/cam lock pin.png": "/Medeco-Knowledge/static/media/cam lock pin.9b302e5245d6509d02d7.png",
     "static/media/onlypins_logo.png": "/Medeco-Knowledge/static/media/onlypins_logo.a3c87bb02449839f3de9.png",
     "static/media/skeypin.png": "/Medeco-Knowledge/static/media/skeypin.6b7bdd494c8cb0351a10.png",
@@ -39,10 +41,10 @@
     "static/media/discord_logo_512x512.png": "/Medeco-Knowledge/static/media/discord_logo_512x512.d33dffd9d88ce16a7c36.png",
     "index.html": "/Medeco-Knowledge/index.html",
     "main.5fb906ce.css.map": "/Medeco-Knowledge/static/css/main.5fb906ce.css.map",
-    "main.f352923e.js.map": "/Medeco-Knowledge/static/js/main.f352923e.js.map"
+    "main.405b528a.js.map": "/Medeco-Knowledge/static/js/main.405b528a.js.map"
   },
   "entrypoints": [
     "static/css/main.5fb906ce.css",
-    "static/js/main.f352923e.js"
+    "static/js/main.405b528a.js"
   ]
 }
