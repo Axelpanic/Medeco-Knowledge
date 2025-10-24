@@ -48,7 +48,7 @@ export default function Home() {
         </p>
         <p> Hisheer: Rectangular body, Medeco core </p>
         <p> From what I could find, these locks are used in miltary applications requiring vertical clearance. I would imagine these were not used on boxes but rather on areas with less space than the 826 or 831 could need. </p>
-        <p> <img src={Hi1} alt ="Hi sheer front" style={{width: '25%'}} /> <img src={Hi2} alt="hi sheer top" style={{width: '25%'}} /> <img src={Hi3} alt="high sheer core" style={{width: '50%'}} /> Images provided by el_pidgeonne </p>
+        <p> <img src={Hi1} alt ="Hi sheer front" style={{width: '25%'}} /> <img src={Hi2} alt="hi sheer top" style={{width: '25%'}} /> <img src={Hi3} alt="high sheer core" style={{width: '50%'}} /> </p> <p> Images provided by el_pidgeonne </p>
         <p> S&G 826 (a thru D): Short oval shaped, Medeco classic or biaxial core (based on year made)</p>
         <p> <img src="https://i.ebayimg.com/images/g/4EoAAOSwg7RmbH6X/s-l1200.jpg" alt="826 c lock" style={{ width: '40%' }} /> </p>
         <p> S&G 831 (A and B): Taller protected shackle, mostly biaxial cores. Ingersoll is stamped on many of these.</p>
