@@ -2,10 +2,10 @@ import React from 'react';
 import Millock from '../../assets/images/milpadlocks.png';
 import Metrolock from '../../assets/images/IMG_1034.jpg';
 import SG951 from '../../assets/images/9512024.jpg';
-import Hi1 from '../../assets/images/hisheer1.jpg':
-import Hi2 from '../../assets/images/hisheer2.jpg';
-import Hi3 from '../../assets/images/hisheer3.jpg';
-import Sys from '../../assets/images/54series.webp';
+import Hisheer1 from '../../assets/images/hisheer1.jpg':
+import Hisheer2 from '../../assets/images/hisheer2.jpg';
+import Hisheer3 from '../../assets/images/hisheer3.jpg';
+import System from '../../assets/images/54series.webp';
 
 export default function Home() {
   return (
@@ -35,7 +35,7 @@ export default function Home() {
           <p> These usually appear just like this. There is no number designation to my knowledge. </p>
         
           <h3> MEDECO 54 series padlock </h3>
-          <img src={Sys} alt="medeco 54 padlocks" style={{width:'25%'}} />
+          <img src={System} alt="medeco 54 padlocks" style={{width:'25%'}} />
           <p> These padlocks persist into the Medeco system series during the biaxial generation. I believe these are padlocks made by Masterlock and filled usually with KIK. later, Assa Abloy began making these with LFIC compatibility. </p>
         
           <h3> MEDECO Metrolock Padlocks</h3>
@@ -48,7 +48,7 @@ export default function Home() {
         </p>
         <p> Hisheer: Rectangular body, Medeco core </p>
         <p> From what I could find, these locks are used in miltary applications requiring vertical clearance. I would imagine these were not used on boxes but rather on areas with less space than the 826 or 831 could need. </p>
-        <p> <img src={Hi1} alt ="Hi sheer front" style={{width: '25%'}} /> <img src={Hi2} alt="hi sheer top" style={{width: '25%'}} /> <img src={Hi3} alt="high sheer core" style={{width: '50%'}} /> </p> <p> Images provided by el_pidgeonne </p>
+        <p> <img src={Hisheer1} alt ="Hi sheer front" style={{width: '25%'}} /> <img src={Hisheer2} alt="hi sheer top" style={{width: '25%'}} /> <img src={Hisheer3} alt="high sheer core" style={{width: '50%'}} /> </p> <p> Images provided by el_pidgeonne </p>
         <p> S&G 826 (a thru D): Short oval shaped, Medeco classic or biaxial core (based on year made)</p>
         <p> <img src="https://i.ebayimg.com/images/g/4EoAAOSwg7RmbH6X/s-l1200.jpg" alt="826 c lock" style={{ width: '40%' }} /> </p>
         <p> S&G 831 (A and B): Taller protected shackle, mostly biaxial cores. Ingersoll is stamped on many of these.</p>
