@@ -9,6 +9,7 @@ import Deployed from './pages/Deployed';
 import Elock from './pages/Elock';
 import Types from './pages/Types';
 import Keyways from './pages/keykeyways';
+import Omega from './pages/Omega';
 
 export default function PortfolioContainer() {
   const [currentPage, setCurrentPage] = useState('Home');
@@ -16,6 +17,9 @@ export default function PortfolioContainer() {
   const renderPage = () => {
     if (currentPage === 'Home') {
       return <Home />;
+    }
+    if (currentPage === 'Omega') {
+      return <Omega />;
     }
     if (currentPage === 'About') {
       return <About />;
