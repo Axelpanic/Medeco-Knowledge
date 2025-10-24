@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Medeco-Knowledge/static/css/main.5fb906ce.css",
-    "main.js": "/Medeco-Knowledge/static/js/main.405b528a.js",
+    "main.js": "/Medeco-Knowledge/static/js/main.227cfd75.js",
     "static/media/origgut.jpg": "/Medeco-Knowledge/static/media/origgut.cfc1d4c5cdfd21c46286.jpg",
     "static/media/xt blown up.jpg": "/Medeco-Knowledge/static/media/xt blown up.e1243103bb573015e167.jpg",
     "static/media/IMG_1034.jpg": "/Medeco-Knowledge/static/media/IMG_1034.bce8f2886ad1c59c4339.jpg",
@@ -11,6 +11,9 @@
     "static/media/biaxgut.jpg": "/Medeco-Knowledge/static/media/biaxgut.6d99ef34e5d9e0f1a5a8.jpg",
     "static/media/original pin parts.png": "/Medeco-Knowledge/static/media/original pin parts.ace027e14a0529d696ec.png",
     "static/media/medeco history 3.png": "/Medeco-Knowledge/static/media/medeco history 3.1c9fde12b1decbe87303.png",
+    "static/media/hisheer1.jpg": "/Medeco-Knowledge/static/media/hisheer1.b4b09b82fe769a526f2e.jpg",
+    "static/media/hisheer3.jpg": "/Medeco-Knowledge/static/media/hisheer3.94c2ac7902783376dfff.jpg",
+    "static/media/hisheer2.jpg": "/Medeco-Knowledge/static/media/hisheer2.a762d54ae732b0a3abd9.jpg",
     "static/media/originalcore.png": "/Medeco-Knowledge/static/media/originalcore.a678023efd30d398f736.png",
     "static/media/siteline.jpg": "/Medeco-Knowledge/static/media/siteline.2670262cd0296b791d58.jpg",
     "static/media/m3.png": "/Medeco-Knowledge/static/media/m3.1e8dc5998ba19ad00ef3.png",
@@ -38,13 +41,14 @@
     "static/media/hillenbrand sells.png": "/Medeco-Knowledge/static/media/hillenbrand sells.4d881479cc4e07d3740f.png",
     "static/media/keyways.png": "/Medeco-Knowledge/static/media/keyways.6674a32dd35349c4ad08.png",
     "static/media/reddit-logo-icon-1024x1024-215h6kce.png": "/Medeco-Knowledge/static/media/reddit-logo-icon-1024x1024-215h6kce.75a528bc1b25329a2985.png",
+    "static/media/54series.webp": "/Medeco-Knowledge/static/media/54series.ce42373a989852e4c0fd.webp",
     "static/media/discord_logo_512x512.png": "/Medeco-Knowledge/static/media/discord_logo_512x512.d33dffd9d88ce16a7c36.png",
     "index.html": "/Medeco-Knowledge/index.html",
     "main.5fb906ce.css.map": "/Medeco-Knowledge/static/css/main.5fb906ce.css.map",
-    "main.405b528a.js.map": "/Medeco-Knowledge/static/js/main.405b528a.js.map"
+    "main.227cfd75.js.map": "/Medeco-Knowledge/static/js/main.227cfd75.js.map"
   },
   "entrypoints": [
     "static/css/main.5fb906ce.css",
-    "static/js/main.405b528a.js"
+    "static/js/main.227cfd75.js"
   ]
 }
