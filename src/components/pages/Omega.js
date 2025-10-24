@@ -5,7 +5,7 @@ import Padlock from "../../assets/images/omegapadlockwyte.jpg";
 import Rim from "../../assets/images/omegarimbask.webp";
 
 
-export default function About() {
+export default function Omega() {
   return (
     <div className='content'>
       <h2 style={{color:'#FFFAFA'}}>The Level IV: Omega</h2>
@@ -15,8 +15,8 @@ export default function About() {
         <p> Being that Omega locks were set with a limited number of keys and no copys were allowed, Level four means factory restricted uncopyable keys were as high security as you can get. This concept was thought to be attributed to Elvis Flores and Roy Oliver. It is rumored that they had a few customers that wanted a lock whos key was unique only to them. Some have said that its security was closely guarded within MEDECO as well, but no evidence has been found to confirm it. What is known is that Omega locks were made on a unique assembly line and keys for them were made in limited quanities and thrown out or destroyed after the ordered amount were made. The keys were also made unique to the lock, these keyways were not used on other original locks. </p>
   </div>
   <div className='cardish'>
-  <p> <img src=(Padlock) alt="omega padlock" style={{width:50%}} /img> </p> <p> Image provided by Wyte from LPU Discord </p>
-  <p> <img src=(Rim) alt="Omega Rim Cylinder" style={{width:50%}} /img> </p> <p> Image provided by Bask from LPU Discord </p>
+  <p> <img src={Padlock} alt="Omega padlock" style={{width: '50%'}} /img> </p> <p> Image provided by Wyte from LPU Discord </p>
+  <p> <img src={Rim} alt="Omega Rim Cylinder" style={{width: '50%'}} /img> </p> <p> Image provided by Bask from LPU Discord </p>
   
   </div>
     );
