@@ -27,7 +27,7 @@ function NavTabs({ currentPage, handlePageChange }) {
         <a
           href="#Omega"
           onClick={() => handlePageChange('Omega')}
-          className={currentPage === 'Home' ? 'nav-link active' : 'nav-link'}
+          className={currentPage === 'Omega' ? 'nav-link active' : 'nav-link'}
         >
           Omega
         </a>
