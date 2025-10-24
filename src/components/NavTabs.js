@@ -23,6 +23,15 @@ function NavTabs({ currentPage, handlePageChange }) {
           About MEDECO
         </a>
       </li>
+            <li className="nav-item">
+        <a
+          href="#Omega"
+          onClick={() => handlePageChange('Omega')}
+          className={currentPage === 'Home' ? 'nav-link active' : 'nav-link'}
+        >
+          Omega
+        </a>
+      </li>
       <li className='nav-item'>
         <a
           href="#keyways"
