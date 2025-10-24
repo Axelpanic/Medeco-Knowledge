@@ -17,7 +17,7 @@ export default function Omega() {
   <div className='cardish'>
   <p> <img src={Padlock} alt="Omega padlock" style={{width: '50%'}} /> </p> <p> Image provided by Wyte from LPU Discord </p>
   <p> <img src={Rim} alt="Omega Rim Cylinder" style={{width: '50%'}} /> </p> <p> Image provided by Bask from LPU Discord </p>
-  
+  </div>
   </div>
     );
 };
