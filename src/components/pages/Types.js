@@ -2,7 +2,7 @@ import React from 'react';
 import Millock from '../../assets/images/milpadlocks.png';
 import Metrolock from '../../assets/images/IMG_1034.jpg';
 import SG951 from '../../assets/images/9512024.jpg';
-import Hisheer1 from '../../assets/images/hisheer1.jpg':
+import Hisheer1 from '../../assets/images/hisheer1.jpg';
 import Hisheer2 from '../../assets/images/hisheer2.jpg';
 import Hisheer3 from '../../assets/images/hisheer3.jpg';
 import System from '../../assets/images/54series.webp';
