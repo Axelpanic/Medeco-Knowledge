@@ -7,7 +7,9 @@
 	"features": {
 		"ghcr.io/devcontainers-extra/features/jshint:2": {},
 		"ghcr.io/devcontainers-extra/features/json-server:1": {},
-		"ghcr.io/devcontainers/features/node:1": {}
+		"ghcr.io/devcontainers/features/node:1": {},
+		"ghcr.io/devcontainers-extra/features/corepack:1": {},
+		"ghcr.io/devcontainers-extra/features/node-asdf:0": {}
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
