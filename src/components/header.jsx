@@ -2,7 +2,8 @@ import React from 'react';
 
 const style= {
     Header: {
-    background: '#87CEFA',
+    color:'skyblue',
+    background: '#286c96',
     padding: 60,
     textAlign: 'center',
     fontSize: 30,}

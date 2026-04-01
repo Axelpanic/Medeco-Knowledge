@@ -1,5 +1,5 @@
 import React from 'react';
-import '../assets/style/navtab.css';
+import '../assets/style/style.css';
 
 function NavTabs({ currentPage, handlePageChange }) {
   return (

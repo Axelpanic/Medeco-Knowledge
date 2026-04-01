@@ -2,10 +2,11 @@ import React from 'react';
 
 const style= {
     Footer: {
+    color: 'skyblue',
     textAlign: 'center',
     margin:'auto',
     width:'50%',
-    background: '#87CEFA',
+    background: '#277baf',
     borderRadius:15,}
 }
 

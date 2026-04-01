@@ -1,0 +1,163 @@
+.content {
+    width: 70%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #8c8cea;
+    margin: auto;
+    padding: 25px 25px 25px;
+    border-radius: 20px;
+    text-align: center;
+}
+@media all and (min-width:200px) and (max-width: 960px) {
+    .content{ 
+        width: 90%;
+        margin:auto;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        background-color: #234bcd;
+        padding: 25px 25px 25px;
+        border-radius: 20px;
+        text-align: center;
+    }
+  }
+
+.cardish {
+    width: 80%;
+    color:rgb(0, 0, 0);
+    background-color: lightskyblue;
+    margin: auto;
+    padding: top 25px;
+    border-radius: 10px;
+}
+@media all and (min-width:200px) and (max-width: 960px) {
+    .cardish{
+        width: 95%;
+        background-color: rgb(88, 151, 190);
+        margin: auto;
+        padding: top 25px;
+        border-radius: 10px;
+    }
+  }
+
+  #iframe{
+    padding:"20",
+  }
+
+.row {
+    padding: 1%;
+}
+.cardlike {
+    width: 50%;
+    background-color: cornflowerblue;
+    margin: auto;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.row {
+    padding: 1%;
+}
+
+.title {
+    width: 50%;
+    background-color: lightskyblue;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.adding {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: skyblue;
+    width: 50%;
+    margin: auto;
+    border-radius: 5px;
+}
+.cards{
+    margin:10px;
+    background-color: #b3d9ff;
+    border-radius: 20px;
+    
+}
+
+.jobinfo {
+    font-style: italic;
+}
+
+.jobtime {
+    font-weight: bold;
+}
+
+.link {
+    width: 15%;
+    background-color: #b3d9ff;
+    margin: auto;
+    border-radius: 5px;
+}
+.nav {
+    margin:auto;
+    width:50%;
+    border-radius:20px;
+    background:rgb(116, 171, 225);
+    color:black;
+}
+.container {
+    position: relative;
+    width: 50%;
+    margin:auto;
+    padding: 20px;
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color:black;
+  }
+  
+  .container:hover .overlay {
+    opacity: 70%;
+  }
+  
+  .text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  .carder {
+    text-align: center;
+    width: 80%;
+    background-color: lightskyblue;
+    margin: auto;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.hidden {
+    
+}
+
+form {visibility: hidden;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 10px;
+
+}
+
+.title {
+    font-weight: bold;
+}

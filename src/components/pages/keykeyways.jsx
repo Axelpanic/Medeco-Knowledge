@@ -1,5 +1,5 @@
 import React from 'react';
-import "../../assets/style/pages.css";
+import "../../assets/style/style.css";
 import keyways from "../../assets/images/keyways.png";
 import G3 from "../../assets/images/G3 key.png";
 import K1515 from "../../assets/images/original key blank.png";

@@ -1,5 +1,5 @@
 import React from 'react';
-import "../../assets/style/pages.css";
+import "../../assets/style/style.css";
 import Patent1 from "../../assets/images/patent 1970 blownup.png";
 import M3 from "../../assets/images/m3.png";
 import M4 from "../../assets/images/m4.png";

@@ -1,5 +1,5 @@
 import React from 'react';
-import "../../assets/style/pages.css";
+import "../../assets/style/style.css";
 import Medecoder from "../../assets/images/oldtools.jpg"
 
 export default function About() {

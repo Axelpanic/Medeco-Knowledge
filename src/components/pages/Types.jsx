@@ -1,4 +1,5 @@
 import React from 'react';
+import '../../assets/style/style.css';
 import Millock from '../../assets/images/milpadlocks.png';
 import Metrolock from '../../assets/images/IMG_1034.jpg';
 import SG951 from '../../assets/images/9512024.jpg';

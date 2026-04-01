@@ -1,6 +1,6 @@
 
 import React from 'react';
-import "../../assets/style/pages.css";
+import "../../assets/style/style.css";
 import Padlock from "../../assets/images/omegapadlockwyte.jpg";
 import Rim from "../../assets/images/omegarimbask.webp";
 

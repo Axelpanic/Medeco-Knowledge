@@ -1,5 +1,5 @@
 import React from 'react';
-import "../../assets/style/pages.css";
+import "../../assets/style/style.css";
 import Gates from '../../assets/images/original pin parts.png';
 import Core from '../../assets/images/originalcore.png';
 import Sir from '../../assets/images/skeypin.png';

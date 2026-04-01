@@ -1,5 +1,5 @@
 import React from 'react';
-import "../../assets/style/pages.css";
+import "../../assets/style/style.css";
 import Siteline from "../../assets/images/siteline.jpg";
 import Xtgut from "../../assets/images/xt blown up.jpg";
 import Xtkik from "../../assets/images/basker kik.jpg";
