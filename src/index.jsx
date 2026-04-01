@@ -4,4 +4,8 @@ import App from './App.jsx';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './assets/style/style.css';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById('root')).render(
+    <React.StrictMode>
+        <App />
+    </React.StrictMode>
+);
